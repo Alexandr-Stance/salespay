@@ -1,4 +1,5 @@
 <?
+	session_start();
 	include "../api/config.php";
 	include "../datebase/config.php";
 	try {
