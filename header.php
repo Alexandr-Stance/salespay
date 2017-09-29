@@ -1,5 +1,5 @@
 <?
-	include "config.php";
+	include "../api/config.php";
 	include "../datebase/config.php";
 	try {
   		$db = new PDO("mysql:host=$host;dbname=$dbname", $user, $password);
