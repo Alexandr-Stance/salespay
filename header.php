@@ -1,7 +1,7 @@
 <?
 	session_start();
-	include "../api/config.php";
-	include "../datebase/config.php";
+	include "/api/config.php";
+	include "/datebase/config.php";
 	try {
   		$db = new PDO("mysql:host=$host;dbname=$dbname", $user, $password);
   		$db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
@@ -40,7 +40,7 @@
 						<?
 						if(!$_SESSION['userid'])
   							{
-  								echo "<a class='chang' href='https://oauth.vk.com/authorize?client_id=$id&display=page&redirect_uri=$url&response_type=code'><div class='vkenter'>Войти через Вконтакте</div></a>";
+  								echo "<a class='chang' href='https://oauth.vk.com/authorize?client_id=$id&display=page&redirect_uri=$url&response_type=code'><div class='login'>Войти через Вконтакте</div></a>";
   							}
   							else{
   								$row = $db->query("SELECT uid, first_name, last_name, photo_big, moneyu FROM users WHERE uid =".$_SESSION['userid'])->fetch();
