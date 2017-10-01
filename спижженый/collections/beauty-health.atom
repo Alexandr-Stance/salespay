@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://myshop-default.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://myshop-default.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://myshop-default.myshopify.com/collections/beauty-health.atom"/>
+  <title>myshop-default</title>
+  <updated>2017-05-24T09:37:14-05:00</updated>
+  <author>
+    <name>myshop-default</name>
+  </author>
+  <entry>
+    <id>https://myshop-default.myshopify.com/products/12061667731</id>
+    <published>2017-05-24T09:37:14-05:00</published>
+    <updated>2017-05-24T09:37:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://myshop-default.myshopify.com/products/foot-cream"/>
+    <title>Foot Cream</title>
+    <s:type>Beauty</s:type>
+    <s:vendor>myshop-default</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1408/4802/products/FOOT_CREAM.jpg?v=1502817906" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>myshop-default<br>
+        <strong>Type: </strong>Beauty<br>
+        <strong>Price: </strong>
+            830.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean</p>
+<ul class="list-simple-dot">
+<li><a href="#">Lightweight soft-touch woven</a></li>
+<li><a href="#">High-rise waist</a></li>
+<li><a href="#">Zip fly with hook and button fastening</a></li>
+<li><a href="#">Slip pockets</a></li>
+<li><a href="#">Waist belt</a></li>
+<li><a href="#">Relaxed fit</a></li>
+<li><a href="#">Machine wash</a></li>
+<li><a href="#">76% Polyester, 18% Viscose, 6% Elastane</a></li>
+<li><a href="#">Our model wears a UK 8/ EU 36/ US 4 and is 174 cm/5'8.5” tall</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500-$1000</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Beauty Tools</s:tag>
+    <s:tag>Blushers</s:tag>
+    <s:tag>Concealers</s:tag>
+    <s:tag>Contouring</s:tag>
+    <s:tag>Cream</s:tag>
+    <s:tag>Eye Liner</s:tag>
+    <s:tag>Free Shipping</s:tag>
+    <s:tag>Personal</s:tag>
+    <s:tag>Vintage</s:tag>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/12061667731</id>
+      <title>Default Title</title>
+      <s:price currency="USD">830.00</s:price>
+      <s:sku>01-10396</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://myshop-default.myshopify.com/products/12061665555</id>
+    <published>2017-05-24T09:37:14-05:00</published>
+    <updated>2017-05-24T09:37:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://myshop-default.myshopify.com/products/gel-eyeliner"/>
+    <title>Gel Eyeliner</title>
+    <s:type>Beauty</s:type>
+    <s:vendor>myshop-default</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1408/4802/products/FELINE_GEL_EYELINER.jpg?v=1502817865" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>myshop-default<br>
+        <strong>Type: </strong>Beauty<br>
+        <strong>Price: </strong>
+            810.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean</p>
+<ul class="list-simple-dot">
+<li><a href="#">Lightweight soft-touch woven</a></li>
+<li><a href="#">High-rise waist</a></li>
+<li><a href="#">Zip fly with hook and button fastening</a></li>
+<li><a href="#">Slip pockets</a></li>
+<li><a href="#">Waist belt</a></li>
+<li><a href="#">Relaxed fit</a></li>
+<li><a href="#">Machine wash</a></li>
+<li><a href="#">76% Polyester, 18% Viscose, 6% Elastane</a></li>
+<li><a href="#">Our model wears a UK 8/ EU 36/ US 4 and is 174 cm/5'8.5” tall</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500-$1000</s:tag>
+    <s:tag>Awesome</s:tag>
+    <s:tag>Beauty Tools</s:tag>
+    <s:tag>Blushers</s:tag>
+    <s:tag>Concealers</s:tag>
+    <s:tag>Contouring</s:tag>
+    <s:tag>Eye Liner</s:tag>
+    <s:tag>Gel</s:tag>
+    <s:tag>Smart</s:tag>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/12061665555</id>
+      <title>Default Title</title>
+      <s:price currency="USD">810.00</s:price>
+      <s:sku>01-10395</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://myshop-default.myshopify.com/products/12061663059</id>
+    <published>2017-05-24T09:37:14-05:00</published>
+    <updated>2017-05-24T09:37:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://myshop-default.myshopify.com/products/eyelashes-secret"/>
+    <title>Eyelashes Secret</title>
+    <s:type>Beauty</s:type>
+    <s:vendor>myshop-default</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1408/4802/products/EYELASHES_SECRET.jpg?v=1502817815" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>myshop-default<br>
+        <strong>Type: </strong>Beauty<br>
+        <strong>Price: </strong>
+            790.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean</p>
+<ul class="list-simple-dot">
+<li><a href="#">Lightweight soft-touch woven</a></li>
+<li><a href="#">High-rise waist</a></li>
+<li><a href="#">Zip fly with hook and button fastening</a></li>
+<li><a href="#">Slip pockets</a></li>
+<li><a href="#">Waist belt</a></li>
+<li><a href="#">Relaxed fit</a></li>
+<li><a href="#">Machine wash</a></li>
+<li><a href="#">76% Polyester, 18% Viscose, 6% Elastane</a></li>
+<li><a href="#">Our model wears a UK 8/ EU 36/ US 4 and is 174 cm/5'8.5” tall</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500-$1000</s:tag>
+    <s:tag>Finishing</s:tag>
+    <s:tag>Highlighters</s:tag>
+    <s:tag>Lipgloss</s:tag>
+    <s:tag>Lipsticks</s:tag>
+    <s:tag>Palettes</s:tag>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/12061663059</id>
+      <title>Default Title</title>
+      <s:price currency="USD">790.00</s:price>
+      <s:sku>01-10394</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://myshop-default.myshopify.com/products/12061659795</id>
+    <published>2017-05-24T09:37:14-05:00</published>
+    <updated>2017-05-24T09:37:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://myshop-default.myshopify.com/products/crema-contorno"/>
+    <title>Crema Contorno</title>
+    <s:type>Beauty</s:type>
+    <s:vendor>myshop-default</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1408/4802/products/CREMA_CONTORNO_OCCHI.jpg?v=1502817757" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>myshop-default<br>
+        <strong>Type: </strong>Beauty<br>
+        <strong>Price: </strong>
+            770.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean</p>
+<ul class="list-simple-dot">
+<li><a href="#">Lightweight soft-touch woven</a></li>
+<li><a href="#">High-rise waist</a></li>
+<li><a href="#">Zip fly with hook and button fastening</a></li>
+<li><a href="#">Slip pockets</a></li>
+<li><a href="#">Waist belt</a></li>
+<li><a href="#">Relaxed fit</a></li>
+<li><a href="#">Machine wash</a></li>
+<li><a href="#">76% Polyester, 18% Viscose, 6% Elastane</a></li>
+<li><a href="#">Our model wears a UK 8/ EU 36/ US 4 and is 174 cm/5'8.5” tall</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500-$1000</s:tag>
+    <s:tag>Finishing</s:tag>
+    <s:tag>Highlighters</s:tag>
+    <s:tag>Lipgloss</s:tag>
+    <s:tag>Lipsticks</s:tag>
+    <s:tag>Palettes</s:tag>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/12061659795</id>
+      <title>Default Title</title>
+      <s:price currency="USD">770.00</s:price>
+      <s:sku>01-10393</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://myshop-default.myshopify.com/products/12061657107</id>
+    <published>2017-05-24T09:37:14-05:00</published>
+    <updated>2017-05-24T09:37:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://myshop-default.myshopify.com/products/cosmo-samurai"/>
+    <title>Cosmo Samurai</title>
+    <s:type>Beauty</s:type>
+    <s:vendor>myshop-default</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1408/4802/products/COSMO_SAMURAI_DUO_KISSES.jpg?v=1502817685" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>myshop-default<br>
+        <strong>Type: </strong>Beauty<br>
+        <strong>Price: </strong>
+            750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean</p>
+<ul class="list-simple-dot">
+<li><a href="#">Lightweight soft-touch woven</a></li>
+<li><a href="#">High-rise waist</a></li>
+<li><a href="#">Zip fly with hook and button fastening</a></li>
+<li><a href="#">Slip pockets</a></li>
+<li><a href="#">Waist belt</a></li>
+<li><a href="#">Relaxed fit</a></li>
+<li><a href="#">Machine wash</a></li>
+<li><a href="#">76% Polyester, 18% Viscose, 6% Elastane</a></li>
+<li><a href="#">Our model wears a UK 8/ EU 36/ US 4 and is 174 cm/5'8.5” tall</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500-$1000</s:tag>
+    <s:tag>Powders</s:tag>
+    <s:tag>Serum</s:tag>
+    <s:tag>Strobing</s:tag>
+    <s:tag>Toners</s:tag>
+    <s:tag>Treatments</s:tag>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/12061657107</id>
+      <title>Default Title</title>
+      <s:price currency="USD">750.00</s:price>
+      <s:sku>01-10392</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://myshop-default.myshopify.com/products/12061652243</id>
+    <published>2017-05-24T09:37:14-05:00</published>
+    <updated>2017-05-24T09:37:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://myshop-default.myshopify.com/products/art-of-seduction"/>
+    <title>Art of Seduction</title>
+    <s:type>Beauty</s:type>
+    <s:vendor>myshop-default</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1408/4802/products/ART_OF_SEDUCTION.jpg?v=1502817545" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>myshop-default<br>
+        <strong>Type: </strong>Beauty<br>
+        <strong>Price: </strong>
+            730.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean</p>
+<ul class="list-simple-dot">
+<li><a href="#">Lightweight soft-touch woven</a></li>
+<li><a href="#">High-rise waist</a></li>
+<li><a href="#">Zip fly with hook and button fastening</a></li>
+<li><a href="#">Slip pockets</a></li>
+<li><a href="#">Waist belt</a></li>
+<li><a href="#">Relaxed fit</a></li>
+<li><a href="#">Machine wash</a></li>
+<li><a href="#">76% Polyester, 18% Viscose, 6% Elastane</a></li>
+<li><a href="#">Our model wears a UK 8/ EU 36/ US 4 and is 174 cm/5'8.5” tall</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500-$1000</s:tag>
+    <s:tag>Powders</s:tag>
+    <s:tag>Serum</s:tag>
+    <s:tag>Strobing</s:tag>
+    <s:tag>Toners</s:tag>
+    <s:tag>Treatments</s:tag>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/12061652243</id>
+      <title>Default Title</title>
+      <s:price currency="USD">730.00</s:price>
+      <s:sku>01-10391</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

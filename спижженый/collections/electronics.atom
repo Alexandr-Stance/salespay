@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://myshop-default.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://myshop-default.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://myshop-default.myshopify.com/collections/electronics.atom"/>
+  <title>myshop-default</title>
+  <updated>2017-05-24T09:37:14-05:00</updated>
+  <author>
+    <name>myshop-default</name>
+  </author>
+  <entry>
+    <id>https://myshop-default.myshopify.com/products/12061649299</id>
+    <published>2017-05-24T09:37:14-05:00</published>
+    <updated>2017-05-24T09:37:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://myshop-default.myshopify.com/products/yellow-apple-watch"/>
+    <title>Yellow Apple Watch</title>
+    <s:type>Electronics</s:type>
+    <s:vendor>Clothes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1408/4802/products/Yellow_38mm_Apple_Watch_Sport_Band.jpg?v=1502817386" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Clothes<br>
+        <strong>Type: </strong>Electronics<br>
+        <strong>Price: </strong>
+            690.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean</p>
+<ul class="list-simple-dot">
+<li><a href="#">Lightweight soft-touch woven</a></li>
+<li><a href="#">High-rise waist</a></li>
+<li><a href="#">Zip fly with hook and button fastening</a></li>
+<li><a href="#">Slip pockets</a></li>
+<li><a href="#">Waist belt</a></li>
+<li><a href="#">Relaxed fit</a></li>
+<li><a href="#">Machine wash</a></li>
+<li><a href="#">76% Polyester, 18% Viscose, 6% Elastane</a></li>
+<li><a href="#">Our model wears a UK 8/ EU 36/ US 4 and is 174 cm/5'8.5” tall</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$600-$700</s:tag>
+    <s:tag>Apple</s:tag>
+    <s:tag>Apple iWatch</s:tag>
+    <s:tag>Gadgets</s:tag>
+    <s:tag>Smart Bracelet</s:tag>
+    <s:tag>Smart Watch</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/12061649299</id>
+      <title>Default Title</title>
+      <s:price currency="USD">690.00</s:price>
+      <s:sku>01-10390</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://myshop-default.myshopify.com/products/12061647251</id>
+    <published>2017-05-24T09:37:14-05:00</published>
+    <updated>2017-05-24T09:37:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://myshop-default.myshopify.com/products/nova-white"/>
+    <title>Nova White</title>
+    <s:type>Electronics</s:type>
+    <s:vendor>Clothes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1408/4802/products/Nova_White.jpg?v=1502817333" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Clothes<br>
+        <strong>Type: </strong>Electronics<br>
+        <strong>Price: </strong>
+            670.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean</p>
+<ul class="list-simple-dot">
+<li><a href="#">Lightweight soft-touch woven</a></li>
+<li><a href="#">High-rise waist</a></li>
+<li><a href="#">Zip fly with hook and button fastening</a></li>
+<li><a href="#">Slip pockets</a></li>
+<li><a href="#">Waist belt</a></li>
+<li><a href="#">Relaxed fit</a></li>
+<li><a href="#">Machine wash</a></li>
+<li><a href="#">76% Polyester, 18% Viscose, 6% Elastane</a></li>
+<li><a href="#">Our model wears a UK 8/ EU 36/ US 4 and is 174 cm/5'8.5” tall</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$600-$700</s:tag>
+    <s:tag>Beats</s:tag>
+    <s:tag>Bluetooth Speaker</s:tag>
+    <s:tag>Personal audio</s:tag>
+    <s:tag>Silver</s:tag>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/12061647251</id>
+      <title>Default Title</title>
+      <s:price currency="USD">670.00</s:price>
+      <s:sku>01-10389</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://myshop-default.myshopify.com/products/12061645331</id>
+    <published>2017-05-24T09:37:14-05:00</published>
+    <updated>2017-05-24T09:37:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://myshop-default.myshopify.com/products/galaxy-s8-edge"/>
+    <title>Galaxy S8 Edge</title>
+    <s:type>Electronics</s:type>
+    <s:vendor>Clothes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1408/4802/products/Galaxy_S6_Edge.jpg?v=1502817279" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Clothes<br>
+        <strong>Type: </strong>Electronics<br>
+        <strong>Price: </strong>
+            650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean</p>
+<ul class="list-simple-dot">
+<li><a href="#">Lightweight soft-touch woven</a></li>
+<li><a href="#">High-rise waist</a></li>
+<li><a href="#">Zip fly with hook and button fastening</a></li>
+<li><a href="#">Slip pockets</a></li>
+<li><a href="#">Waist belt</a></li>
+<li><a href="#">Relaxed fit</a></li>
+<li><a href="#">Machine wash</a></li>
+<li><a href="#">76% Polyester, 18% Viscose, 6% Elastane</a></li>
+<li><a href="#">Our model wears a UK 8/ EU 36/ US 4 and is 174 cm/5'8.5” tall</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500-$1000</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Cool</s:tag>
+    <s:tag>Entertainment</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Video Available</s:tag>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/12061645331</id>
+      <title>Default Title</title>
+      <s:price currency="USD">650.00</s:price>
+      <s:sku>01-10388</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://myshop-default.myshopify.com/products/12061642387</id>
+    <published>2017-05-24T09:37:14-05:00</published>
+    <updated>2017-05-24T09:37:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://myshop-default.myshopify.com/products/audio-swimmer-stereo-speaker"/>
+    <title>Audio Swimmer Stereo Speaker</title>
+    <s:type>Electronics</s:type>
+    <s:vendor>Clothes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1408/4802/products/Audio_Boom_Swimmer_Waterproof_Bluetooth_Stereo_Speaker.jpg?v=1502817213" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Clothes<br>
+        <strong>Type: </strong>Electronics<br>
+        <strong>Price: </strong>
+            630.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean</p>
+<ul class="list-simple-dot">
+<li><a href="#">Lightweight soft-touch woven</a></li>
+<li><a href="#">High-rise waist</a></li>
+<li><a href="#">Zip fly with hook and button fastening</a></li>
+<li><a href="#">Slip pockets</a></li>
+<li><a href="#">Waist belt</a></li>
+<li><a href="#">Relaxed fit</a></li>
+<li><a href="#">Machine wash</a></li>
+<li><a href="#">76% Polyester, 18% Viscose, 6% Elastane</a></li>
+<li><a href="#">Our model wears a UK 8/ EU 36/ US 4 and is 174 cm/5'8.5” tall</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500-$1000</s:tag>
+    <s:tag>Bluetooth Speaker</s:tag>
+    <s:tag>Customer Picks</s:tag>
+    <s:tag>Gotto</s:tag>
+    <s:tag>Grey</s:tag>
+    <s:tag>Personal audio</s:tag>
+    <s:tag>Wearable Tech</s:tag>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/12061642387</id>
+      <title>Default Title</title>
+      <s:price currency="USD">630.00</s:price>
+      <s:sku>01-10387</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://myshop-default.myshopify.com/products/12061636371</id>
+    <published>2017-05-24T09:37:14-05:00</published>
+    <updated>2017-05-24T09:37:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://myshop-default.myshopify.com/products/gear-fit-fitness-tracker"/>
+    <title>Gear Fit Fitness Tracker</title>
+    <s:type>Electronics</s:type>
+    <s:vendor>Clothes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1408/4802/products/Announces_Gear_Fit_Fitness_Tracker.jpg?v=1502817161" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Clothes<br>
+        <strong>Type: </strong>Electronics<br>
+        <strong>Price: </strong>
+            610.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean</p>
+<ul class="list-simple-dot">
+<li><a href="#">Lightweight soft-touch woven</a></li>
+<li><a href="#">High-rise waist</a></li>
+<li><a href="#">Zip fly with hook and button fastening</a></li>
+<li><a href="#">Slip pockets</a></li>
+<li><a href="#">Waist belt</a></li>
+<li><a href="#">Relaxed fit</a></li>
+<li><a href="#">Machine wash</a></li>
+<li><a href="#">76% Polyester, 18% Viscose, 6% Elastane</a></li>
+<li><a href="#">Our model wears a UK 8/ EU 36/ US 4 and is 174 cm/5'8.5” tall</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500-$1000</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Awesome</s:tag>
+    <s:tag>Gadgets</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Samsung</s:tag>
+    <s:tag>Smart Watch</s:tag>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/12061636371</id>
+      <title>Default Title</title>
+      <s:price currency="USD">610.00</s:price>
+      <s:sku>01-10386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://myshop-default.myshopify.com/products/12061563539</id>
+    <published>2017-05-24T09:37:14-05:00</published>
+    <updated>2017-05-24T09:37:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://myshop-default.myshopify.com/products/copy-of-70s-blue-supersoft-skinny-jeans"/>
+    <title>Accolade Sound Solo AS330T</title>
+    <s:type>Electronics</s:type>
+    <s:vendor>Clothes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1408/4802/products/Accolade_Sound_Solo_AS330T.jpg?v=1502817081" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Clothes<br>
+        <strong>Type: </strong>Electronics<br>
+        <strong>Price: </strong>
+            590.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean</p>
+<ul class="list-simple-dot">
+<li><a href="#">Lightweight soft-touch woven</a></li>
+<li><a href="#">High-rise waist</a></li>
+<li><a href="#">Zip fly with hook and button fastening</a></li>
+<li><a href="#">Slip pockets</a></li>
+<li><a href="#">Waist belt</a></li>
+<li><a href="#">Relaxed fit</a></li>
+<li><a href="#">Machine wash</a></li>
+<li><a href="#">76% Polyester, 18% Viscose, 6% Elastane</a></li>
+<li><a href="#">Our model wears a UK 8/ EU 36/ US 4 and is 174 cm/5'8.5” tall</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500-$1000</s:tag>
+    <s:tag>Beats</s:tag>
+    <s:tag>Bluetooth Speaker</s:tag>
+    <s:tag>Cool</s:tag>
+    <s:tag>FlexPay</s:tag>
+    <s:tag>Personal audio</s:tag>
+    <s:tag>Silver</s:tag>
+    <s:tag>Smart Home</s:tag>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/12061563539</id>
+      <title>Default Title</title>
+      <s:price currency="USD">590.00</s:price>
+      <s:sku>01-10386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://myshop-default.myshopify.com/blogs/blog.atom</id>
+  <link rel="alternate" type="text/html" href="https://myshop-default.myshopify.com/blogs/blog"/>
+  <link rel="self" type="application/atom+xml" href="https://myshop-default.myshopify.com/blogs/blog/tagged/fashion.atom"/>
+  <title>myshop-default - Blog</title>
+  <updated>2017-05-26T06:17:00-05:00</updated>
+  <author>
+    <name>myshop-default</name>
+  </author>
+  <entry>
+    <id>https://myshop-default.myshopify.com/blogs/blog/12-different-layouts</id>
+    <published>2017-05-26T06:17:00-05:00</published>
+    <updated>2017-05-26T06:19:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://myshop-default.myshopify.com/blogs/blog/12-different-layouts"/>
+    <title>12 Different Layouts.</title>
+    <author>
+      <name>Jon Silver</name>
+    </author>
+    <summary type="html">
+      <![CDATA[Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fug<p><a class="read-more" href="https://myshop-default.myshopify.com/blogs/blog/12-different-layouts">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate.</p>
+<div class="indent-top-bottom">
+<p><img src="//cdn.shopify.com/s/files/1/1408/4802/files/post-img-08.jpg?7371908528048682104" alt=""></p>
+</div>
+<p class="first-letter">TLorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.</p>
+<p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate.</p>
+<div class="row">
+<div class="col-sm-6 indent-top-bottom">
+<p><img src="//cdn.shopify.com/s/files/1/1408/4802/files/post-img-11.jpg?7371908528048682104" alt=""></p>
+</div>
+<div class="col-sm-6 indent-top-bottom">
+<p><img src="//cdn.shopify.com/s/files/1/1408/4802/files/post-img-12.jpg?7371908528048682104" alt=""></p>
+</div>
+</div>
+<p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate.</p>
+<blockquote class="quote-left">
+<p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+<cite>— Adam Smith</cite>
+</blockquote>
+<p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate.</p>
+<p class="indent-top"><img src="//cdn.shopify.com/s/files/1/1408/4802/files/post-img-09.jpg?7371908528048682104" alt=""></p>
+<p class="indent-top1"><img src="//cdn.shopify.com/s/files/1/1408/4802/files/post-img-10.jpg?7371908528048682104" alt=""></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://myshop-default.myshopify.com/blogs/blog/colour-size-swatches</id>
+    <published>2017-05-26T04:46:00-05:00</published>
+    <updated>2017-07-13T03:13:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://myshop-default.myshopify.com/blogs/blog/colour-size-swatches"/>
+    <title>Colour/size Swatches</title>
+    <author>
+      <name>Jon Silver</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<div class="video-block">
+<a href="#" class="link-video"></a> <video class="movie" src="//cdn.shopify.com/s/files/1/1408/4802/files/video.mp4?6491955289972811204" poster="//cdn.shopify.com/s/files/1/1408/4802/files/video_img.jpg?6491955289972811204"></video>
+</div>
+<br>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fug<p><a class="read-more" href="https://myshop-default.myshopify.com/blogs/blog/colour-size-swatches">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate.</p>
+<div class="indent-top-bottom">
+<p><img src="//cdn.shopify.com/s/files/1/1408/4802/files/post-img-08.jpg?7371908528048682104" alt=""></p>
+</div>
+<p class="first-letter">TLorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.</p>
+<p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate.</p>
+<div class="row">
+<div class="col-sm-6 indent-top-bottom">
+<p><img src="//cdn.shopify.com/s/files/1/1408/4802/files/post-img-11.jpg?7371908528048682104" alt=""></p>
+</div>
+<div class="col-sm-6 indent-top-bottom">
+<p><img src="//cdn.shopify.com/s/files/1/1408/4802/files/post-img-12.jpg?7371908528048682104" alt=""></p>
+</div>
+</div>
+<p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate.</p>
+<blockquote class="quote-left">
+<p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+<cite>— Adam Smith</cite>
+</blockquote>
+<p>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate.</p>
+<p class="indent-top"><img src="//cdn.shopify.com/s/files/1/1408/4802/files/post-img-09.jpg?7371908528048682104" alt=""></p>
+<p class="indent-top1"><img src="//cdn.shopify.com/s/files/1/1408/4802/files/post-img-10.jpg?7371908528048682104" alt=""></p>]]>
+    </content>
+  </entry>
+</feed>

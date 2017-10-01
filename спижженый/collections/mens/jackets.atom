@@ -1,0 +1,2507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://myshop-default.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://myshop-default.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://myshop-default.myshopify.com/collections/mens/jackets.atom"/>
+  <title>myshop-default</title>
+  <updated>2017-05-24T09:37:14-05:00</updated>
+  <author>
+    <name>myshop-default</name>
+  </author>
+  <entry>
+    <id>https://myshop-default.myshopify.com/products/10911303571</id>
+    <published>2017-05-24T09:37:14-05:00</published>
+    <updated>2017-05-24T09:37:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://myshop-default.myshopify.com/products/baisy-street-3-4-sleeve-panelled-casual-shirt"/>
+    <title>Baisy Street 3/4 Sleeve Panelled Casual Shirt</title>
+    <s:type>Shirt</s:type>
+    <s:vendor>Clothes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1408/4802/products/ASOS_Poplin_Shirt_In_Long_Sleeve_0.JPG?v=1495637036" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Clothes<br>
+        <strong>Type: </strong>Shirt<br>
+        <strong>Price: </strong>
+            100.00 - 150.00
+            <a href="https://myshop-default.myshopify.com/products/baisy-street-3-4-sleeve-panelled-casual-shirt">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean</p>
+<ul class="list-simple-dot">
+<li><a href="#">Lightweight soft-touch woven</a></li>
+<li><a href="#">High-rise waist</a></li>
+<li><a href="#">Zip fly with hook and button fastening</a></li>
+<li><a href="#">Slip pockets</a></li>
+<li><a href="#">Waist belt</a></li>
+<li><a href="#">Relaxed fit</a></li>
+<li><a href="#">Machine wash</a></li>
+<li><a href="#">76% Polyester, 18% Viscose, 6% Elastane</a></li>
+<li><a href="#">Our model wears a UK 8/ EU 36/ US 4 and is 174 cm/5'8.5” tall</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$10-$100</s:tag>
+    <s:tag>Bags</s:tag>
+    <s:tag>Belts</s:tag>
+    <s:tag>Clothes</s:tag>
+    <s:tag>Grey</s:tag>
+    <s:tag>Hats</s:tag>
+    <s:tag>Jackets</s:tag>
+    <s:tag>Jeans</s:tag>
+    <s:tag>Jumpsuit &amp; shorts</s:tag>
+    <s:tag>Lacoste</s:tag>
+    <s:tag>Levi&apos;s</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Men Accessories</s:tag>
+    <s:tag>Men Bottoms</s:tag>
+    <s:tag>Nice</s:tag>
+    <s:tag>Outerwear</s:tag>
+    <s:tag>Scarves &amp; snoods</s:tag>
+    <s:tag>Shoes</s:tag>
+    <s:tag>Shorts</s:tag>
+    <s:tag>Skirts</s:tag>
+    <s:tag>Sleeveless Tops</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Sunglasses</s:tag>
+    <s:tag>Sweaters</s:tag>
+    <s:tag>Tights</s:tag>
+    <s:tag>Tops</s:tag>
+    <s:tag>Tops &amp; T-shirts</s:tag>
+    <s:tag>Trousers</s:tag>
+    <s:tag>Vintage</s:tag>
+    <s:tag>Violet</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:tag>Zara</s:tag>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10911303571</id>
+      <title>XS / Yellow</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>01-101</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10911303571</id>
+      <title>XS / Violet</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku>01-102</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10911303571</id>
+      <title>XS / Grey</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>01-103</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10911303571</id>
+      <title>M / Yellow</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku>01-104</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10911303571</id>
+      <title>M / Violet</title>
+      <s:price currency="USD">130.00</s:price>
+      <s:sku>01-105</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10911303571</id>
+      <title>M / Grey</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku>01-106</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10911303571</id>
+      <title>XL / Yellow</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku>01-107</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10911303571</id>
+      <title>XL / Violet</title>
+      <s:price currency="USD">145.00</s:price>
+      <s:sku>01-108</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10911303571</id>
+      <title>XL / Grey</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku>01-109</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://myshop-default.myshopify.com/products/10913711251</id>
+    <published>2017-05-24T09:37:14-05:00</published>
+    <updated>2017-05-24T09:37:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://myshop-default.myshopify.com/products/cognac-shoes"/>
+    <title>Cognac shoes</title>
+    <s:type>Shoes</s:type>
+    <s:vendor>Outerwear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1408/4802/products/Cognac_001_ProductLarge.JPG?v=1495644630" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Outerwear<br>
+        <strong>Type: </strong>Shoes<br>
+        <strong>Price: </strong>
+            475.00 - 560.00
+            <a href="https://myshop-default.myshopify.com/products/cognac-shoes">(18 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean</p>
+<ul class="list-simple-dot">
+<li><a href="#">Lightweight soft-touch woven</a></li>
+<li><a href="#">High-rise waist</a></li>
+<li><a href="#">Zip fly with hook and button fastening</a></li>
+<li><a href="#">Slip pockets</a></li>
+<li><a href="#">Waist belt</a></li>
+<li><a href="#">Relaxed fit</a></li>
+<li><a href="#">Machine wash</a></li>
+<li><a href="#">76% Polyester, 18% Viscose, 6% Elastane</a></li>
+<li><a href="#">Our model wears a UK 8/ EU 36/ US 4 and is 174 cm/5'8.5” tall</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200-$500</s:tag>
+    <s:tag>Belts</s:tag>
+    <s:tag>Grey</s:tag>
+    <s:tag>Hats</s:tag>
+    <s:tag>Jumpsuit &amp; shorts</s:tag>
+    <s:tag>Lacoste</s:tag>
+    <s:tag>Levi&apos;s</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>Material 1</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Men Accessories</s:tag>
+    <s:tag>Men Bottoms</s:tag>
+    <s:tag>Nice</s:tag>
+    <s:tag>Outerwear</s:tag>
+    <s:tag>Shoes</s:tag>
+    <s:tag>Shorts</s:tag>
+    <s:tag>Sleeveless Tops</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Sunglasses</s:tag>
+    <s:tag>Sweaters</s:tag>
+    <s:tag>Tights</s:tag>
+    <s:tag>Tops</s:tag>
+    <s:tag>Trousers</s:tag>
+    <s:tag>Vintage</s:tag>
+    <s:tag>Violet</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:tag>Zara</s:tag>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913711251</id>
+      <title>XS / Yellow / Material 1</title>
+      <s:price currency="USD">475.00</s:price>
+      <s:sku>01-10404</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913711251</id>
+      <title>XS / Yellow / Material 2</title>
+      <s:price currency="USD">480.00</s:price>
+      <s:sku>01-10405</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913711251</id>
+      <title>XS / Violet / Material 1</title>
+      <s:price currency="USD">485.00</s:price>
+      <s:sku>01-10406</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913711251</id>
+      <title>XS / Violet / Material 2</title>
+      <s:price currency="USD">490.00</s:price>
+      <s:sku>01-10407</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913711251</id>
+      <title>XS / Grey / Material 1</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>01-10408</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913711251</id>
+      <title>XS / Grey / Material 2</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku>01-10409</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913711251</id>
+      <title>M / Yellow / Material 1</title>
+      <s:price currency="USD">505.00</s:price>
+      <s:sku>01-10410</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913711251</id>
+      <title>M / Yellow / Material 2</title>
+      <s:price currency="USD">510.00</s:price>
+      <s:sku>01-10411</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913711251</id>
+      <title>M / Violet / Material 1</title>
+      <s:price currency="USD">515.00</s:price>
+      <s:sku>01-10412</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913711251</id>
+      <title>M / Violet / Material 2</title>
+      <s:price currency="USD">520.00</s:price>
+      <s:sku>01-10413</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913711251</id>
+      <title>M / Grey / Material 1</title>
+      <s:price currency="USD">525.00</s:price>
+      <s:sku>01-10414</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913711251</id>
+      <title>M / Grey / Material 2</title>
+      <s:price currency="USD">530.00</s:price>
+      <s:sku>01-10415</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913711251</id>
+      <title>XL / Yellow / Material 1</title>
+      <s:price currency="USD">535.00</s:price>
+      <s:sku>01-10416</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913711251</id>
+      <title>XL / Yellow / Material 2</title>
+      <s:price currency="USD">540.00</s:price>
+      <s:sku>01-10417</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913711251</id>
+      <title>XL / Violet / Material 1</title>
+      <s:price currency="USD">545.00</s:price>
+      <s:sku>01-10418</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913711251</id>
+      <title>XL / Violet / Material 2</title>
+      <s:price currency="USD">550.00</s:price>
+      <s:sku>01-10419</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913711251</id>
+      <title>XL / Grey / Material 1</title>
+      <s:price currency="USD">555.00</s:price>
+      <s:sku>01-10420</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913711251</id>
+      <title>XL / Grey / Material 2</title>
+      <s:price currency="USD">560.00</s:price>
+      <s:sku>01-10421</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://myshop-default.myshopify.com/products/10913441427</id>
+    <published>2017-05-24T09:37:14-05:00</published>
+    <updated>2017-05-24T09:37:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://myshop-default.myshopify.com/products/dark-grey-melange"/>
+    <title>Dark Grey Melange</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Outerwear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1408/4802/products/DarkGreyMelange_485540_001_ProductLarge.JPG?v=1495644031" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Outerwear<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            380.00 - 465.00
+            <a href="https://myshop-default.myshopify.com/products/dark-grey-melange">(18 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean</p>
+<ul class="list-simple-dot">
+<li><a href="#">Lightweight soft-touch woven</a></li>
+<li><a href="#">High-rise waist</a></li>
+<li><a href="#">Zip fly with hook and button fastening</a></li>
+<li><a href="#">Slip pockets</a></li>
+<li><a href="#">Waist belt</a></li>
+<li><a href="#">Relaxed fit</a></li>
+<li><a href="#">Machine wash</a></li>
+<li><a href="#">76% Polyester, 18% Viscose, 6% Elastane</a></li>
+<li><a href="#">Our model wears a UK 8/ EU 36/ US 4 and is 174 cm/5'8.5” tall</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200-$500</s:tag>
+    <s:tag>Belts</s:tag>
+    <s:tag>Grey</s:tag>
+    <s:tag>Hats</s:tag>
+    <s:tag>Jumpsuit &amp; shorts</s:tag>
+    <s:tag>Lacoste</s:tag>
+    <s:tag>Levi&apos;s</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>Material 1</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Men Accessories</s:tag>
+    <s:tag>Men Bottoms</s:tag>
+    <s:tag>Nice</s:tag>
+    <s:tag>Outerwear</s:tag>
+    <s:tag>Shoes</s:tag>
+    <s:tag>Shorts</s:tag>
+    <s:tag>Sleeveless Tops</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Sunglasses</s:tag>
+    <s:tag>Sweaters</s:tag>
+    <s:tag>Tights</s:tag>
+    <s:tag>Tops</s:tag>
+    <s:tag>Trousers</s:tag>
+    <s:tag>Vintage</s:tag>
+    <s:tag>Violet</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:tag>Zara</s:tag>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913441427</id>
+      <title>XS / Yellow / Material 1</title>
+      <s:price currency="USD">380.00</s:price>
+      <s:sku>01-10394</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913441427</id>
+      <title>XS / Yellow / Material 2</title>
+      <s:price currency="USD">385.00</s:price>
+      <s:sku>01-10395</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913441427</id>
+      <title>XS / Violet / Material 1</title>
+      <s:price currency="USD">390.00</s:price>
+      <s:sku>01-10396</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913441427</id>
+      <title>XS / Violet / Material 2</title>
+      <s:price currency="USD">395.00</s:price>
+      <s:sku>01-10397</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913441427</id>
+      <title>XS / Grey / Material 1</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku>01-10398</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913441427</id>
+      <title>XS / Grey / Material 2</title>
+      <s:price currency="USD">405.00</s:price>
+      <s:sku>01-10399</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913441427</id>
+      <title>M / Yellow / Material 1</title>
+      <s:price currency="USD">410.00</s:price>
+      <s:sku>01-10400</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913441427</id>
+      <title>M / Yellow / Material 2</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>01-10401</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913441427</id>
+      <title>M / Violet / Material 1</title>
+      <s:price currency="USD">420.00</s:price>
+      <s:sku>01-10402</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913441427</id>
+      <title>M / Violet / Material 2</title>
+      <s:price currency="USD">425.00</s:price>
+      <s:sku>01-10403</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913441427</id>
+      <title>M / Grey / Material 1</title>
+      <s:price currency="USD">430.00</s:price>
+      <s:sku>01-10404</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913441427</id>
+      <title>M / Grey / Material 2</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>01-10405</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913441427</id>
+      <title>XL / Yellow / Material 1</title>
+      <s:price currency="USD">440.00</s:price>
+      <s:sku>01-10406</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913441427</id>
+      <title>XL / Yellow / Material 2</title>
+      <s:price currency="USD">445.00</s:price>
+      <s:sku>01-10407</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913441427</id>
+      <title>XL / Violet / Material 1</title>
+      <s:price currency="USD">450.00</s:price>
+      <s:sku>01-10408</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913441427</id>
+      <title>XL / Violet / Material 2</title>
+      <s:price currency="USD">455.00</s:price>
+      <s:sku>01-10409</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913441427</id>
+      <title>XL / Grey / Material 1</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>01-10410</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913441427</id>
+      <title>XL / Grey / Material 2</title>
+      <s:price currency="USD">465.00</s:price>
+      <s:sku>01-10411</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://myshop-default.myshopify.com/products/10913719699</id>
+    <published>2017-05-24T09:37:14-05:00</published>
+    <updated>2017-05-24T09:37:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://myshop-default.myshopify.com/products/diesel-d-kallien-boots"/>
+    <title>Diesel D-Kallien Boots</title>
+    <s:type>Shoes</s:type>
+    <s:vendor>Outerwear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1408/4802/products/Diesel_D-Kallien_Boots_0.JPG?v=1495644737" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Outerwear<br>
+        <strong>Type: </strong>Shoes<br>
+        <strong>Price: </strong>
+            1450.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean</p>
+<ul class="list-simple-dot">
+<li><a href="#">Lightweight soft-touch woven</a></li>
+<li><a href="#">High-rise waist</a></li>
+<li><a href="#">Zip fly with hook and button fastening</a></li>
+<li><a href="#">Slip pockets</a></li>
+<li><a href="#">Waist belt</a></li>
+<li><a href="#">Relaxed fit</a></li>
+<li><a href="#">Machine wash</a></li>
+<li><a href="#">76% Polyester, 18% Viscose, 6% Elastane</a></li>
+<li><a href="#">Our model wears a UK 8/ EU 36/ US 4 and is 174 cm/5'8.5” tall</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100-$200</s:tag>
+    <s:tag>Belts</s:tag>
+    <s:tag>Grey</s:tag>
+    <s:tag>Hats</s:tag>
+    <s:tag>Jumpsuit &amp; shorts</s:tag>
+    <s:tag>Lacoste</s:tag>
+    <s:tag>Levi&apos;s</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Nice</s:tag>
+    <s:tag>Outerwear</s:tag>
+    <s:tag>Shoes</s:tag>
+    <s:tag>Shorts</s:tag>
+    <s:tag>Sleeveless Tops</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Sunglasses</s:tag>
+    <s:tag>Sweaters</s:tag>
+    <s:tag>Tights</s:tag>
+    <s:tag>Tops</s:tag>
+    <s:tag>Trousers</s:tag>
+    <s:tag>Vintage</s:tag>
+    <s:tag>Violet</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:tag>Zara</s:tag>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913719699</id>
+      <title>Default Title</title>
+      <s:price currency="USD">1450.00</s:price>
+      <s:sku>01-10389</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://myshop-default.myshopify.com/products/10913463443</id>
+    <published>2017-05-24T09:37:14-05:00</published>
+    <updated>2017-05-24T09:37:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://myshop-default.myshopify.com/products/diesel-shirt-s-tokie-check-shirt"/>
+    <title>Diesel Shirt S-Tokie Check Shirt</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Zara</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1408/4802/products/Diesel_Shirt_S-Tokie_Check_Shirt_0.JPG?v=1495644080" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Zara<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            380.00 - 435.00
+            <a href="https://myshop-default.myshopify.com/products/diesel-shirt-s-tokie-check-shirt">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean</p>
+<ul class="list-simple-dot">
+<li><a href="#">Lightweight soft-touch woven</a></li>
+<li><a href="#">High-rise waist</a></li>
+<li><a href="#">Zip fly with hook and button fastening</a></li>
+<li><a href="#">Slip pockets</a></li>
+<li><a href="#">Waist belt</a></li>
+<li><a href="#">Relaxed fit</a></li>
+<li><a href="#">Machine wash</a></li>
+<li><a href="#">76% Polyester, 18% Viscose, 6% Elastane</a></li>
+<li><a href="#">Our model wears a UK 8/ EU 36/ US 4 and is 174 cm/5'8.5” tall</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200-$500</s:tag>
+    <s:tag>Belts</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Gap</s:tag>
+    <s:tag>Guess</s:tag>
+    <s:tag>Hats</s:tag>
+    <s:tag>Jumpsuit &amp; shorts</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>Material 1</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Nice</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Outerwear</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Polo</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Shoes</s:tag>
+    <s:tag>Shorts</s:tag>
+    <s:tag>Sleeveless Tops</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Sunglasses</s:tag>
+    <s:tag>Sweaters</s:tag>
+    <s:tag>Tights</s:tag>
+    <s:tag>Tops</s:tag>
+    <s:tag>Trousers</s:tag>
+    <s:tag>Vintage</s:tag>
+    <s:tag>Zara</s:tag>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913463443</id>
+      <title>S / Orange / Material 1</title>
+      <s:price currency="USD">380.00</s:price>
+      <s:sku>01-10388</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913463443</id>
+      <title>S / Orange / Material 2</title>
+      <s:price currency="USD">385.00</s:price>
+      <s:sku>01-10389</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913463443</id>
+      <title>S / Pink / Material 1</title>
+      <s:price currency="USD">390.00</s:price>
+      <s:sku>01-10390</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913463443</id>
+      <title>S / Pink / Material 2</title>
+      <s:price currency="USD">395.00</s:price>
+      <s:sku>01-10391</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913463443</id>
+      <title>S / Black / Material 1</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku>01-10392</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913463443</id>
+      <title>S / Black / Material 2</title>
+      <s:price currency="USD">405.00</s:price>
+      <s:sku>01-10393</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913463443</id>
+      <title>L / Orange / Material 1</title>
+      <s:price currency="USD">410.00</s:price>
+      <s:sku>01-10394</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913463443</id>
+      <title>L / Orange / Material 2</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>01-10395</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913463443</id>
+      <title>L / Pink / Material 1</title>
+      <s:price currency="USD">420.00</s:price>
+      <s:sku>01-10396</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913463443</id>
+      <title>L / Pink / Material 2</title>
+      <s:price currency="USD">425.00</s:price>
+      <s:sku>01-10397</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913463443</id>
+      <title>L / Black / Material 1</title>
+      <s:price currency="USD">430.00</s:price>
+      <s:sku>01-10398</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913463443</id>
+      <title>L / Black / Material 2</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>01-10399</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://myshop-default.myshopify.com/products/10913492435</id>
+    <published>2017-05-24T09:37:14-05:00</published>
+    <updated>2017-05-24T09:37:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://myshop-default.myshopify.com/products/diesel-sive-printed-scarf"/>
+    <title>Diesel Sive Printed Scarf</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Outerwear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1408/4802/products/Diesel_Sive_Printed_Scarf_0.JPG?v=1495644131" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Outerwear<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean</p>
+<ul class="list-simple-dot">
+<li><a href="#">Lightweight soft-touch woven</a></li>
+<li><a href="#">High-rise waist</a></li>
+<li><a href="#">Zip fly with hook and button fastening</a></li>
+<li><a href="#">Slip pockets</a></li>
+<li><a href="#">Waist belt</a></li>
+<li><a href="#">Relaxed fit</a></li>
+<li><a href="#">Machine wash</a></li>
+<li><a href="#">76% Polyester, 18% Viscose, 6% Elastane</a></li>
+<li><a href="#">Our model wears a UK 8/ EU 36/ US 4 and is 174 cm/5'8.5” tall</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200-$500</s:tag>
+    <s:tag>Belts</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Gap</s:tag>
+    <s:tag>Guess</s:tag>
+    <s:tag>Hats</s:tag>
+    <s:tag>Jumpsuit &amp; shorts</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Nice</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Outerwear</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Polo</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Shoes</s:tag>
+    <s:tag>Shorts</s:tag>
+    <s:tag>Sleeveless Tops</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Sunglasses</s:tag>
+    <s:tag>Sweaters</s:tag>
+    <s:tag>Tights</s:tag>
+    <s:tag>Tops</s:tag>
+    <s:tag>Trousers</s:tag>
+    <s:tag>Vintage</s:tag>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913492435</id>
+      <title>Default Title</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku>01-10389</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://myshop-default.myshopify.com/products/10913510163</id>
+    <published>2017-05-24T09:37:14-05:00</published>
+    <updated>2017-05-24T09:37:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://myshop-default.myshopify.com/products/diesel-t-shirt-t-brave-smile-in-life-bolt-print"/>
+    <title>Diesel T-Shirt T-Brave Smile In Life Bolt Print</title>
+    <s:type>Shirt</s:type>
+    <s:vendor>Outerwear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1408/4802/products/Diesel_T-Shirt_T-Brave_Smile_In_Life_Bolt_Print_0.JPG?v=1495644163" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Outerwear<br>
+        <strong>Type: </strong>Shirt<br>
+        <strong>Price: </strong>
+            120.00 - 175.00
+            <a href="https://myshop-default.myshopify.com/products/diesel-t-shirt-t-brave-smile-in-life-bolt-print">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean</p>
+<ul class="list-simple-dot">
+<li><a href="#">Lightweight soft-touch woven</a></li>
+<li><a href="#">High-rise waist</a></li>
+<li><a href="#">Zip fly with hook and button fastening</a></li>
+<li><a href="#">Slip pockets</a></li>
+<li><a href="#">Waist belt</a></li>
+<li><a href="#">Relaxed fit</a></li>
+<li><a href="#">Machine wash</a></li>
+<li><a href="#">76% Polyester, 18% Viscose, 6% Elastane</a></li>
+<li><a href="#">Our model wears a UK 8/ EU 36/ US 4 and is 174 cm/5'8.5” tall</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100-$200</s:tag>
+    <s:tag>Belts</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Gap</s:tag>
+    <s:tag>Guess</s:tag>
+    <s:tag>Hats</s:tag>
+    <s:tag>Jumpsuit &amp; shorts</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>Material 2</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Nice</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Outerwear</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Polo</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Shoes</s:tag>
+    <s:tag>Shorts</s:tag>
+    <s:tag>Sleeveless Tops</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Sunglasses</s:tag>
+    <s:tag>Sweaters</s:tag>
+    <s:tag>Tights</s:tag>
+    <s:tag>Tops</s:tag>
+    <s:tag>Trousers</s:tag>
+    <s:tag>Vintage</s:tag>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913510163</id>
+      <title>S / Orange / Material 1</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>01-10390</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913510163</id>
+      <title>S / Orange / Material 2</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku>01-10391</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913510163</id>
+      <title>S / Pink / Material 1</title>
+      <s:price currency="USD">130.00</s:price>
+      <s:sku>01-10392</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913510163</id>
+      <title>S / Pink / Material 2</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku>01-10393</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913510163</id>
+      <title>S / Black / Material 1</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku>01-10394</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913510163</id>
+      <title>S / Black / Material 2</title>
+      <s:price currency="USD">145.00</s:price>
+      <s:sku>01-10395</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913510163</id>
+      <title>L / Orange / Material 1</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku>01-10396</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913510163</id>
+      <title>L / Orange / Material 2</title>
+      <s:price currency="USD">155.00</s:price>
+      <s:sku>01-10397</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913510163</id>
+      <title>L / Pink / Material 1</title>
+      <s:price currency="USD">160.00</s:price>
+      <s:sku>01-10398</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913510163</id>
+      <title>L / Pink / Material 2</title>
+      <s:price currency="USD">165.00</s:price>
+      <s:sku>01-10399</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913510163</id>
+      <title>L / Black / Material 1</title>
+      <s:price currency="USD">170.00</s:price>
+      <s:sku>01-10400</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913510163</id>
+      <title>L / Black / Material 2</title>
+      <s:price currency="USD">175.00</s:price>
+      <s:sku>01-10401</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://myshop-default.myshopify.com/products/10913568723</id>
+    <published>2017-05-24T09:37:14-05:00</published>
+    <updated>2017-05-24T09:37:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://myshop-default.myshopify.com/products/diesel-t-shirt-t-clar-winged-triangle-print"/>
+    <title>Diesel T-Shirt T-Clar Winged Triangle Print</title>
+    <s:type>Belt</s:type>
+    <s:vendor>Clothes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1408/4802/products/Diesel_T-Shirt_T-Clar_Winged_Triangle_Print_0.JPG?v=1495644274" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Clothes<br>
+        <strong>Type: </strong>Belt<br>
+        <strong>Price: </strong>
+            140.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean</p>
+<ul class="list-simple-dot">
+<li><a href="#">Lightweight soft-touch woven</a></li>
+<li><a href="#">High-rise waist</a></li>
+<li><a href="#">Zip fly with hook and button fastening</a></li>
+<li><a href="#">Slip pockets</a></li>
+<li><a href="#">Waist belt</a></li>
+<li><a href="#">Relaxed fit</a></li>
+<li><a href="#">Machine wash</a></li>
+<li><a href="#">76% Polyester, 18% Viscose, 6% Elastane</a></li>
+<li><a href="#">Our model wears a UK 8/ EU 36/ US 4 and is 174 cm/5'8.5” tall</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100-$200</s:tag>
+    <s:tag>Bags</s:tag>
+    <s:tag>Clothes</s:tag>
+    <s:tag>Grey</s:tag>
+    <s:tag>Jackets</s:tag>
+    <s:tag>Jeans</s:tag>
+    <s:tag>Lacoste</s:tag>
+    <s:tag>Levi&apos;s</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Men Accessories</s:tag>
+    <s:tag>Men Bottoms</s:tag>
+    <s:tag>Nice</s:tag>
+    <s:tag>Scarves &amp; snoods</s:tag>
+    <s:tag>Shirts</s:tag>
+    <s:tag>Shorts</s:tag>
+    <s:tag>Skirts</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Sunglasses</s:tag>
+    <s:tag>Tops &amp; T-shirts</s:tag>
+    <s:tag>Vintage</s:tag>
+    <s:tag>Violet</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:tag>Zara</s:tag>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913568723</id>
+      <title>Default Title</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku>01-10380</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://myshop-default.myshopify.com/products/10913588243</id>
+    <published>2017-05-24T09:37:14-05:00</published>
+    <updated>2017-05-24T09:37:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://myshop-default.myshopify.com/products/g-star-leather-jacket-aviator-rebel-biker"/>
+    <title>G-Star Leather Jacket Aviator Rebel Biker</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Nike</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1408/4802/products/G-Star_Leather_Jacket_Aviator_Rebel_Biker_0.JPG?v=1495644330" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Nike<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            60.00 - 145.00
+            <a href="https://myshop-default.myshopify.com/products/g-star-leather-jacket-aviator-rebel-biker">(18 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean</p>
+<ul class="list-simple-dot">
+<li><a href="#">Lightweight soft-touch woven</a></li>
+<li><a href="#">High-rise waist</a></li>
+<li><a href="#">Zip fly with hook and button fastening</a></li>
+<li><a href="#">Slip pockets</a></li>
+<li><a href="#">Waist belt</a></li>
+<li><a href="#">Relaxed fit</a></li>
+<li><a href="#">Machine wash</a></li>
+<li><a href="#">76% Polyester, 18% Viscose, 6% Elastane</a></li>
+<li><a href="#">Our model wears a UK 8/ EU 36/ US 4 and is 174 cm/5'8.5” tall</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$10-$100</s:tag>
+    <s:tag>Bags</s:tag>
+    <s:tag>Grey</s:tag>
+    <s:tag>Jackets</s:tag>
+    <s:tag>Jeans</s:tag>
+    <s:tag>Lacoste</s:tag>
+    <s:tag>Levi&apos;s</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>Material 2</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Men Accessories</s:tag>
+    <s:tag>Men Bottoms</s:tag>
+    <s:tag>Nice</s:tag>
+    <s:tag>Nike</s:tag>
+    <s:tag>Scarves &amp; snoods</s:tag>
+    <s:tag>Shirts</s:tag>
+    <s:tag>Shorts</s:tag>
+    <s:tag>Skirts</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Sunglasses</s:tag>
+    <s:tag>Tops &amp; T-shirts</s:tag>
+    <s:tag>Vintage</s:tag>
+    <s:tag>Violet</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:tag>Zara</s:tag>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913588243</id>
+      <title>XS / Yellow / Material 1</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku>01-10398</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913588243</id>
+      <title>XS / Yellow / Material 2</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>01-10399</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913588243</id>
+      <title>XS / Violet / Material 1</title>
+      <s:price currency="USD">70.00</s:price>
+      <s:sku>01-10400</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913588243</id>
+      <title>XS / Violet / Material 2</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku>01-10401</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913588243</id>
+      <title>XS / Grey / Material 1</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>01-10402</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913588243</id>
+      <title>XS / Grey / Material 2</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>01-10403</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913588243</id>
+      <title>M / Yellow / Material 1</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>01-10404</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913588243</id>
+      <title>M / Yellow / Material 2</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>01-10405</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913588243</id>
+      <title>M / Violet / Material 1</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>01-10406</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913588243</id>
+      <title>M / Violet / Material 2</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku>01-10407</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913588243</id>
+      <title>M / Grey / Material 1</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>01-10408</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913588243</id>
+      <title>M / Grey / Material 2</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku>01-10409</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913588243</id>
+      <title>XL / Yellow / Material 1</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>01-10410</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913588243</id>
+      <title>XL / Yellow / Material 2</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku>01-10411</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913588243</id>
+      <title>XL / Violet / Material 1</title>
+      <s:price currency="USD">130.00</s:price>
+      <s:sku>01-10412</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913588243</id>
+      <title>XL / Violet / Material 2</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku>01-10413</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913588243</id>
+      <title>XL / Grey / Material 1</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku>01-10414</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913588243</id>
+      <title>XL / Grey / Material 2</title>
+      <s:price currency="USD">145.00</s:price>
+      <s:sku>01-10415</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://myshop-default.myshopify.com/products/10913622995</id>
+    <published>2017-05-24T09:37:14-05:00</published>
+    <updated>2017-05-24T09:37:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://myshop-default.myshopify.com/products/huf-triple-triangle-snapback-cap"/>
+    <title>Huf Triple Triangle Snapback Cap</title>
+    <s:type>Shirt</s:type>
+    <s:vendor>Outerwear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1408/4802/products/Huf_Triple_Triangle_Snapback_Cap_0.JPG?v=1495644367" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Outerwear<br>
+        <strong>Type: </strong>Shirt<br>
+        <strong>Price: </strong>
+            80.00 - 165.00
+            <a href="https://myshop-default.myshopify.com/products/huf-triple-triangle-snapback-cap">(18 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean</p>
+<ul class="list-simple-dot">
+<li><a href="#">Lightweight soft-touch woven</a></li>
+<li><a href="#">High-rise waist</a></li>
+<li><a href="#">Zip fly with hook and button fastening</a></li>
+<li><a href="#">Slip pockets</a></li>
+<li><a href="#">Waist belt</a></li>
+<li><a href="#">Relaxed fit</a></li>
+<li><a href="#">Machine wash</a></li>
+<li><a href="#">76% Polyester, 18% Viscose, 6% Elastane</a></li>
+<li><a href="#">Our model wears a UK 8/ EU 36/ US 4 and is 174 cm/5'8.5” tall</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$10-$100</s:tag>
+    <s:tag>$200-$500</s:tag>
+    <s:tag>Awesome</s:tag>
+    <s:tag>Bags</s:tag>
+    <s:tag>Beachwear</s:tag>
+    <s:tag>Cool</s:tag>
+    <s:tag>Grey</s:tag>
+    <s:tag>Jackets</s:tag>
+    <s:tag>Jeans</s:tag>
+    <s:tag>Lacoste</s:tag>
+    <s:tag>Levi&apos;s</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>Material 2</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Men Accessories</s:tag>
+    <s:tag>Men Bottoms</s:tag>
+    <s:tag>Scarves &amp; snoods</s:tag>
+    <s:tag>Shirts</s:tag>
+    <s:tag>Skirts</s:tag>
+    <s:tag>Sunglasses</s:tag>
+    <s:tag>Tops &amp; T-shirts</s:tag>
+    <s:tag>Violet</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:tag>Zara</s:tag>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913622995</id>
+      <title>XS / Yellow / Material 1</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>01-10399</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913622995</id>
+      <title>XS / Yellow / Material 2</title>
+      <s:price currency="USD">85.00</s:price>
+      <s:sku>01-10400</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913622995</id>
+      <title>XS / Violet / Material 1</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>01-10401</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913622995</id>
+      <title>XS / Violet / Material 2</title>
+      <s:price currency="USD">95.00</s:price>
+      <s:sku>01-10402</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913622995</id>
+      <title>XS / Grey / Material 1</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>01-10403</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913622995</id>
+      <title>XS / Grey / Material 2</title>
+      <s:price currency="USD">105.00</s:price>
+      <s:sku>01-10404</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913622995</id>
+      <title>M / Yellow / Material 1</title>
+      <s:price currency="USD">110.00</s:price>
+      <s:sku>01-10405</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913622995</id>
+      <title>M / Yellow / Material 2</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku>01-10406</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913622995</id>
+      <title>M / Violet / Material 1</title>
+      <s:price currency="USD">120.00</s:price>
+      <s:sku>01-10407</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913622995</id>
+      <title>M / Violet / Material 2</title>
+      <s:price currency="USD">125.00</s:price>
+      <s:sku>01-10408</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913622995</id>
+      <title>M / Grey / Material 1</title>
+      <s:price currency="USD">130.00</s:price>
+      <s:sku>01-10409</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913622995</id>
+      <title>M / Grey / Material 2</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku>01-10410</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913622995</id>
+      <title>XL / Yellow / Material 1</title>
+      <s:price currency="USD">140.00</s:price>
+      <s:sku>01-10411</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913622995</id>
+      <title>XL / Yellow / Material 2</title>
+      <s:price currency="USD">145.00</s:price>
+      <s:sku>01-10412</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913622995</id>
+      <title>XL / Violet / Material 1</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku>01-10413</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913622995</id>
+      <title>XL / Violet / Material 2</title>
+      <s:price currency="USD">155.00</s:price>
+      <s:sku>01-10414</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913622995</id>
+      <title>XL / Grey / Material 1</title>
+      <s:price currency="USD">160.00</s:price>
+      <s:sku>01-10415</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913622995</id>
+      <title>XL / Grey / Material 2</title>
+      <s:price currency="USD">165.00</s:price>
+      <s:sku>01-10416</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://myshop-default.myshopify.com/products/10911802387</id>
+    <published>2017-05-24T09:37:14-05:00</published>
+    <updated>2017-05-24T09:37:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://myshop-default.myshopify.com/products/paisy-street-3-4-sleeve-panelled-casual-shirt"/>
+    <title>Paisy Street 3/4 Sleeve Panelled Casual Shirt</title>
+    <s:type>Shirts</s:type>
+    <s:vendor>Shirts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1408/4802/products/Carhartt_Logo_Starter_Cap_0.JPG?v=1495639122" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Shirts<br>
+        <strong>Type: </strong>Shirts<br>
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean</p>
+<ul class="list-simple-dot">
+<li><a href="#">Lightweight soft-touch woven</a></li>
+<li><a href="#">High-rise waist</a></li>
+<li><a href="#">Zip fly with hook and button fastening</a></li>
+<li><a href="#">Slip pockets</a></li>
+<li><a href="#">Waist belt</a></li>
+<li><a href="#">Relaxed fit</a></li>
+<li><a href="#">Machine wash</a></li>
+<li><a href="#">76% Polyester, 18% Viscose, 6% Elastane</a></li>
+<li><a href="#">Our model wears a UK 8/ EU 36/ US 4 and is 174 cm/5'8.5” tall</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$10-$100</s:tag>
+    <s:tag>$200-$500</s:tag>
+    <s:tag>Awesome</s:tag>
+    <s:tag>Bags</s:tag>
+    <s:tag>Beachwear</s:tag>
+    <s:tag>Cool</s:tag>
+    <s:tag>Grey</s:tag>
+    <s:tag>Jackets</s:tag>
+    <s:tag>Jeans</s:tag>
+    <s:tag>Lacoste</s:tag>
+    <s:tag>Levi&apos;s</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Men Accessories</s:tag>
+    <s:tag>Men Bottoms</s:tag>
+    <s:tag>Scarves &amp; snoods</s:tag>
+    <s:tag>Shirts</s:tag>
+    <s:tag>Skirts</s:tag>
+    <s:tag>Sunglasses</s:tag>
+    <s:tag>Tops &amp; T-shirts</s:tag>
+    <s:tag>Violet</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:tag>Zara</s:tag>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10911802387</id>
+      <title>Default Title</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>01-1026</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://myshop-default.myshopify.com/products/10913639443</id>
+    <published>2017-05-24T09:37:14-05:00</published>
+    <updated>2017-05-24T09:37:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://myshop-default.myshopify.com/products/paul-smith-jeans-blazer-with-patch-pockets"/>
+    <title>Paul Smith Jeans Blazer with Patch Pockets</title>
+    <s:type>Shoes</s:type>
+    <s:vendor>ZARA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1408/4802/products/Paul_Smith_Jeans_Blazer_with_Patch_Pockets_0.JPG?v=1495644396" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>ZARA<br>
+        <strong>Type: </strong>Shoes<br>
+        <strong>Price: </strong>
+            280.00 - 365.00
+            <a href="https://myshop-default.myshopify.com/products/paul-smith-jeans-blazer-with-patch-pockets">(18 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean</p>
+<ul class="list-simple-dot">
+<li><a href="#">Lightweight soft-touch woven</a></li>
+<li><a href="#">High-rise waist</a></li>
+<li><a href="#">Zip fly with hook and button fastening</a></li>
+<li><a href="#">Slip pockets</a></li>
+<li><a href="#">Waist belt</a></li>
+<li><a href="#">Relaxed fit</a></li>
+<li><a href="#">Machine wash</a></li>
+<li><a href="#">76% Polyester, 18% Viscose, 6% Elastane</a></li>
+<li><a href="#">Our model wears a UK 8/ EU 36/ US 4 and is 174 cm/5'8.5” tall</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200-$500</s:tag>
+    <s:tag>Awesome</s:tag>
+    <s:tag>Bags</s:tag>
+    <s:tag>Beachwear</s:tag>
+    <s:tag>Cool</s:tag>
+    <s:tag>Grey</s:tag>
+    <s:tag>Jackets</s:tag>
+    <s:tag>Jeans</s:tag>
+    <s:tag>Lacoste</s:tag>
+    <s:tag>Levi&apos;s</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>Material 1</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Men Accessories</s:tag>
+    <s:tag>Men Bottoms</s:tag>
+    <s:tag>Scarves &amp; snoods</s:tag>
+    <s:tag>Shirts</s:tag>
+    <s:tag>Skirts</s:tag>
+    <s:tag>Sunglasses</s:tag>
+    <s:tag>Tops &amp; T-shirts</s:tag>
+    <s:tag>Violet</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:tag>Zara</s:tag>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913639443</id>
+      <title>XS / Yellow / Material 1</title>
+      <s:price currency="USD">280.00</s:price>
+      <s:sku>01-10399</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913639443</id>
+      <title>XS / Yellow / Material 2</title>
+      <s:price currency="USD">285.00</s:price>
+      <s:sku>01-10400</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913639443</id>
+      <title>XS / Violet / Material 1</title>
+      <s:price currency="USD">290.00</s:price>
+      <s:sku>01-10401</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913639443</id>
+      <title>XS / Violet / Material 2</title>
+      <s:price currency="USD">295.00</s:price>
+      <s:sku>01-10402</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913639443</id>
+      <title>XS / Grey / Material 1</title>
+      <s:price currency="USD">300.00</s:price>
+      <s:sku>01-10403</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913639443</id>
+      <title>XS / Grey / Material 2</title>
+      <s:price currency="USD">305.00</s:price>
+      <s:sku>01-10404</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913639443</id>
+      <title>M / Yellow / Material 1</title>
+      <s:price currency="USD">310.00</s:price>
+      <s:sku>01-10405</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913639443</id>
+      <title>M / Yellow / Material 2</title>
+      <s:price currency="USD">315.00</s:price>
+      <s:sku>01-10406</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913639443</id>
+      <title>M / Violet / Material 1</title>
+      <s:price currency="USD">320.00</s:price>
+      <s:sku>01-10407</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913639443</id>
+      <title>M / Violet / Material 2</title>
+      <s:price currency="USD">325.00</s:price>
+      <s:sku>01-10408</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913639443</id>
+      <title>M / Grey / Material 1</title>
+      <s:price currency="USD">330.00</s:price>
+      <s:sku>01-10409</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913639443</id>
+      <title>M / Grey / Material 2</title>
+      <s:price currency="USD">335.00</s:price>
+      <s:sku>01-10410</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913639443</id>
+      <title>XL / Yellow / Material 1</title>
+      <s:price currency="USD">340.00</s:price>
+      <s:sku>01-10411</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913639443</id>
+      <title>XL / Yellow / Material 2</title>
+      <s:price currency="USD">345.00</s:price>
+      <s:sku>01-10412</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913639443</id>
+      <title>XL / Violet / Material 1</title>
+      <s:price currency="USD">350.00</s:price>
+      <s:sku>01-10413</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913639443</id>
+      <title>XL / Violet / Material 2</title>
+      <s:price currency="USD">355.00</s:price>
+      <s:sku>01-10414</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913639443</id>
+      <title>XL / Grey / Material 1</title>
+      <s:price currency="USD">360.00</s:price>
+      <s:sku>01-10415</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913639443</id>
+      <title>XL / Grey / Material 2</title>
+      <s:price currency="USD">365.00</s:price>
+      <s:sku>01-10416</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://myshop-default.myshopify.com/products/10911875155</id>
+    <published>2017-05-24T09:37:14-05:00</published>
+    <updated>2017-05-24T09:37:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://myshop-default.myshopify.com/products/raisy-street-3-4-sleeve-panelled-casual-shirt"/>
+    <title>Raisy Street 3/4 Sleeve Panelled Casual Shirt</title>
+    <s:type>Belt</s:type>
+    <s:vendor>Clothes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1408/4802/products/BlueDenim_001_ProductLarge.JPG?v=1495639828" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Clothes<br>
+        <strong>Type: </strong>Belt<br>
+        <strong>Price: </strong>
+            490.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean</p>
+<ul class="list-simple-dot">
+<li><a href="#">Lightweight soft-touch woven</a></li>
+<li><a href="#">High-rise waist</a></li>
+<li><a href="#">Zip fly with hook and button fastening</a></li>
+<li><a href="#">Slip pockets</a></li>
+<li><a href="#">Waist belt</a></li>
+<li><a href="#">Relaxed fit</a></li>
+<li><a href="#">Machine wash</a></li>
+<li><a href="#">76% Polyester, 18% Viscose, 6% Elastane</a></li>
+<li><a href="#">Our model wears a UK 8/ EU 36/ US 4 and is 174 cm/5'8.5” tall</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200-$500</s:tag>
+    <s:tag>Awesome</s:tag>
+    <s:tag>Bags</s:tag>
+    <s:tag>Beachwear</s:tag>
+    <s:tag>Cool</s:tag>
+    <s:tag>Grey</s:tag>
+    <s:tag>Jackets</s:tag>
+    <s:tag>Jeans</s:tag>
+    <s:tag>Lacoste</s:tag>
+    <s:tag>Levi&apos;s</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Men Accessories</s:tag>
+    <s:tag>Men Bottoms</s:tag>
+    <s:tag>Scarves &amp; snoods</s:tag>
+    <s:tag>Shirts</s:tag>
+    <s:tag>Skirts</s:tag>
+    <s:tag>Sunglasses</s:tag>
+    <s:tag>Tops &amp; T-shirts</s:tag>
+    <s:tag>Violet</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:tag>Zara</s:tag>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10911875155</id>
+      <title>Default Title</title>
+      <s:price currency="USD">490.00</s:price>
+      <s:sku>01-1027</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://myshop-default.myshopify.com/products/10913419923</id>
+    <published>2017-05-24T09:37:14-05:00</published>
+    <updated>2017-05-24T09:37:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://myshop-default.myshopify.com/products/shirt-in-longline-with-monochrome-check"/>
+    <title>Shirt In Longline With Monochrome Check</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Nike</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1408/4802/products/ASOS_Shirt_In_Longline_With_Monochrome_Check_0.JPG?v=1495643995" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Nike<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            560.00 - 615.00
+            <a href="https://myshop-default.myshopify.com/products/shirt-in-longline-with-monochrome-check">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean</p>
+<ul class="list-simple-dot">
+<li><a href="#">Lightweight soft-touch woven</a></li>
+<li><a href="#">High-rise waist</a></li>
+<li><a href="#">Zip fly with hook and button fastening</a></li>
+<li><a href="#">Slip pockets</a></li>
+<li><a href="#">Waist belt</a></li>
+<li><a href="#">Relaxed fit</a></li>
+<li><a href="#">Machine wash</a></li>
+<li><a href="#">76% Polyester, 18% Viscose, 6% Elastane</a></li>
+<li><a href="#">Our model wears a UK 8/ EU 36/ US 4 and is 174 cm/5'8.5” tall</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200-$500</s:tag>
+    <s:tag>Awesome</s:tag>
+    <s:tag>Bags</s:tag>
+    <s:tag>Beachwear</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Cool</s:tag>
+    <s:tag>Jackets</s:tag>
+    <s:tag>Jeans</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>Material 1</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Men Accessories</s:tag>
+    <s:tag>Men Bottoms</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Scarves &amp; snoods</s:tag>
+    <s:tag>Shirts</s:tag>
+    <s:tag>Skirts</s:tag>
+    <s:tag>Sunglasses</s:tag>
+    <s:tag>Tops &amp; T-shirts</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:tag>Zara</s:tag>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913419923</id>
+      <title>S / Orange / Material 1</title>
+      <s:price currency="USD">560.00</s:price>
+      <s:sku>01-10387</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913419923</id>
+      <title>S / Orange / Material 2</title>
+      <s:price currency="USD">565.00</s:price>
+      <s:sku>01-10388</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913419923</id>
+      <title>S / Pink / Material 1</title>
+      <s:price currency="USD">570.00</s:price>
+      <s:sku>01-10389</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913419923</id>
+      <title>S / Pink / Material 2</title>
+      <s:price currency="USD">575.00</s:price>
+      <s:sku>01-10390</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913419923</id>
+      <title>S / Black / Material 1</title>
+      <s:price currency="USD">580.00</s:price>
+      <s:sku>01-10391</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913419923</id>
+      <title>S / Black / Material 2</title>
+      <s:price currency="USD">585.00</s:price>
+      <s:sku>01-10392</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913419923</id>
+      <title>L / Orange / Material 1</title>
+      <s:price currency="USD">590.00</s:price>
+      <s:sku>01-10393</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913419923</id>
+      <title>L / Orange / Material 2</title>
+      <s:price currency="USD">595.00</s:price>
+      <s:sku>01-10394</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913419923</id>
+      <title>L / Pink / Material 1</title>
+      <s:price currency="USD">600.00</s:price>
+      <s:sku>01-10395</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913419923</id>
+      <title>L / Pink / Material 2</title>
+      <s:price currency="USD">605.00</s:price>
+      <s:sku>01-10396</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913419923</id>
+      <title>L / Black / Material 1</title>
+      <s:price currency="USD">610.00</s:price>
+      <s:sku>01-10397</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913419923</id>
+      <title>L / Black / Material 2</title>
+      <s:price currency="USD">615.00</s:price>
+      <s:sku>01-10398</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://myshop-default.myshopify.com/products/10913656851</id>
+    <published>2017-05-24T09:37:14-05:00</published>
+    <updated>2017-05-24T09:37:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://myshop-default.myshopify.com/products/spiewak-parka-with-faux-fur-trim"/>
+    <title>Spiewak Parka with Faux Fur Trim</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Nike</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1408/4802/products/Spiewak_Parka_with_Faux_Fur_Trim_0.JPG?v=1495644426" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Nike<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            700.00 - 755.00
+            <a href="https://myshop-default.myshopify.com/products/spiewak-parka-with-faux-fur-trim">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean</p>
+<ul class="list-simple-dot">
+<li><a href="#">Lightweight soft-touch woven</a></li>
+<li><a href="#">High-rise waist</a></li>
+<li><a href="#">Zip fly with hook and button fastening</a></li>
+<li><a href="#">Slip pockets</a></li>
+<li><a href="#">Waist belt</a></li>
+<li><a href="#">Relaxed fit</a></li>
+<li><a href="#">Machine wash</a></li>
+<li><a href="#">76% Polyester, 18% Viscose, 6% Elastane</a></li>
+<li><a href="#">Our model wears a UK 8/ EU 36/ US 4 and is 174 cm/5'8.5” tall</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200-$500</s:tag>
+    <s:tag>Awesome</s:tag>
+    <s:tag>Bags</s:tag>
+    <s:tag>Beachwear</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Cool</s:tag>
+    <s:tag>Jackets</s:tag>
+    <s:tag>Jeans</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>Material 2</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Men Accessories</s:tag>
+    <s:tag>Men Bottoms</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Scarves &amp; snoods</s:tag>
+    <s:tag>Shirts</s:tag>
+    <s:tag>Skirts</s:tag>
+    <s:tag>Sunglasses</s:tag>
+    <s:tag>Tops &amp; T-shirts</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:tag>Zara</s:tag>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913656851</id>
+      <title>S / Orange / Material 1</title>
+      <s:price currency="USD">700.00</s:price>
+      <s:sku>01-10394</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913656851</id>
+      <title>S / Orange / Material 2</title>
+      <s:price currency="USD">705.00</s:price>
+      <s:sku>01-10395</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913656851</id>
+      <title>S / Pink / Material 1</title>
+      <s:price currency="USD">710.00</s:price>
+      <s:sku>01-10396</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913656851</id>
+      <title>S / Pink / Material 2</title>
+      <s:price currency="USD">715.00</s:price>
+      <s:sku>01-10397</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913656851</id>
+      <title>S / Black / Material 1</title>
+      <s:price currency="USD">720.00</s:price>
+      <s:sku>01-10398</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913656851</id>
+      <title>S / Black / Material 2</title>
+      <s:price currency="USD">725.00</s:price>
+      <s:sku>01-10399</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913656851</id>
+      <title>L / Orange / Material 1</title>
+      <s:price currency="USD">730.00</s:price>
+      <s:sku>01-10400</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913656851</id>
+      <title>L / Orange / Material 2</title>
+      <s:price currency="USD">735.00</s:price>
+      <s:sku>01-10401</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913656851</id>
+      <title>L / Pink / Material 1</title>
+      <s:price currency="USD">740.00</s:price>
+      <s:sku>01-10402</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913656851</id>
+      <title>L / Pink / Material 2</title>
+      <s:price currency="USD">745.00</s:price>
+      <s:sku>01-10403</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913656851</id>
+      <title>L / Black / Material 1</title>
+      <s:price currency="USD">750.00</s:price>
+      <s:sku>01-10404</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913656851</id>
+      <title>L / Black / Material 2</title>
+      <s:price currency="USD">755.00</s:price>
+      <s:sku>01-10405</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://myshop-default.myshopify.com/products/10911891411</id>
+    <published>2017-05-24T09:37:14-05:00</published>
+    <updated>2017-05-24T09:37:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://myshop-default.myshopify.com/products/street-3-4-sleeve-panelled-casual-shirt"/>
+    <title>Street 3/4 Sleeve Panelled Casual Shirt</title>
+    <s:type>Shoes</s:type>
+    <s:vendor>Zara</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1408/4802/products/ASOS_5_Panel_Cap_In_Navy_Floral_With_Tan_Faux_Suede_Peak_0.JPG?v=1495639897" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Zara<br>
+        <strong>Type: </strong>Shoes<br>
+        <strong>Price: </strong>
+            650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean</p>
+<ul class="list-simple-dot">
+<li><a href="#">Lightweight soft-touch woven</a></li>
+<li><a href="#">High-rise waist</a></li>
+<li><a href="#">Zip fly with hook and button fastening</a></li>
+<li><a href="#">Slip pockets</a></li>
+<li><a href="#">Waist belt</a></li>
+<li><a href="#">Relaxed fit</a></li>
+<li><a href="#">Machine wash</a></li>
+<li><a href="#">76% Polyester, 18% Viscose, 6% Elastane</a></li>
+<li><a href="#">Our model wears a UK 8/ EU 36/ US 4 and is 174 cm/5'8.5” tall</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Awesome</s:tag>
+    <s:tag>Bags</s:tag>
+    <s:tag>Beachwear</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Cool</s:tag>
+    <s:tag>Jackets</s:tag>
+    <s:tag>Jeans</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Men Accessories</s:tag>
+    <s:tag>Men Bottoms</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Scarves &amp; snoods</s:tag>
+    <s:tag>Shirts</s:tag>
+    <s:tag>Skirts</s:tag>
+    <s:tag>Sunglasses</s:tag>
+    <s:tag>Tops &amp; T-shirts</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:tag>Women</s:tag>
+    <s:tag>Zara</s:tag>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10911891411</id>
+      <title>Default Title</title>
+      <s:price currency="USD">650.00</s:price>
+      <s:sku>01-1028</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://myshop-default.myshopify.com/products/10912035795</id>
+    <published>2017-05-24T09:37:14-05:00</published>
+    <updated>2017-05-24T09:37:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://myshop-default.myshopify.com/products/waisy-street-3-4-sleeve-panelled-casual-shirt"/>
+    <title>Waisy Street 3/4 Sleeve Panelled Casual Shirt</title>
+    <s:type>Belt</s:type>
+    <s:vendor>Nike</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1408/4802/products/Denim___Supply_Ralph_Lauren_Field_Jacket_with_Patches_0.JPG?v=1495640433" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Nike<br>
+        <strong>Type: </strong>Belt<br>
+        <strong>Price: </strong>
+            600.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean</p>
+<ul class="list-simple-dot">
+<li><a href="#">Lightweight soft-touch woven</a></li>
+<li><a href="#">High-rise waist</a></li>
+<li><a href="#">Zip fly with hook and button fastening</a></li>
+<li><a href="#">Slip pockets</a></li>
+<li><a href="#">Waist belt</a></li>
+<li><a href="#">Relaxed fit</a></li>
+<li><a href="#">Machine wash</a></li>
+<li><a href="#">76% Polyester, 18% Viscose, 6% Elastane</a></li>
+<li><a href="#">Our model wears a UK 8/ EU 36/ US 4 and is 174 cm/5'8.5” tall</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Awesome</s:tag>
+    <s:tag>Bags</s:tag>
+    <s:tag>Beachwear</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Cool</s:tag>
+    <s:tag>Jackets</s:tag>
+    <s:tag>Jeans</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Men Accessories</s:tag>
+    <s:tag>Men Bottoms</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Scarves &amp; snoods</s:tag>
+    <s:tag>Shirts</s:tag>
+    <s:tag>Skirts</s:tag>
+    <s:tag>Sunglasses</s:tag>
+    <s:tag>Tops &amp; T-shirts</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10912035795</id>
+      <title>Default Title</title>
+      <s:price currency="USD">600.00</s:price>
+      <s:sku>01-10360</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://myshop-default.myshopify.com/products/10912062291</id>
+    <published>2017-05-24T09:37:14-05:00</published>
+    <updated>2017-05-24T09:37:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://myshop-default.myshopify.com/products/zaisy-street-3-4-sleeve-panelled-casual-shirt"/>
+    <title>Zaisy Street 3/4 Sleeve Panelled Casual Shirt</title>
+    <s:type>Shirt</s:type>
+    <s:vendor>Outerwear</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1408/4802/products/CloudDancer_459246_001_ProductLarge.JPG?v=1495640502" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Outerwear<br>
+        <strong>Type: </strong>Shirt<br>
+        <strong>Price: </strong>
+            830.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean</p>
+<ul class="list-simple-dot">
+<li><a href="#">Lightweight soft-touch woven</a></li>
+<li><a href="#">High-rise waist</a></li>
+<li><a href="#">Zip fly with hook and button fastening</a></li>
+<li><a href="#">Slip pockets</a></li>
+<li><a href="#">Waist belt</a></li>
+<li><a href="#">Relaxed fit</a></li>
+<li><a href="#">Machine wash</a></li>
+<li><a href="#">76% Polyester, 18% Viscose, 6% Elastane</a></li>
+<li><a href="#">Our model wears a UK 8/ EU 36/ US 4 and is 174 cm/5'8.5” tall</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Awesome</s:tag>
+    <s:tag>Bags</s:tag>
+    <s:tag>Beachwear</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Cool</s:tag>
+    <s:tag>Gap</s:tag>
+    <s:tag>Guess</s:tag>
+    <s:tag>Jackets</s:tag>
+    <s:tag>Jeans</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Men Accessories</s:tag>
+    <s:tag>Men Bottoms</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Polo</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Scarves &amp; snoods</s:tag>
+    <s:tag>Shirts</s:tag>
+    <s:tag>Skirts</s:tag>
+    <s:tag>Sunglasses</s:tag>
+    <s:tag>Tops &amp; T-shirts</s:tag>
+    <s:tag>Winter</s:tag>
+    <s:tag>Zara</s:tag>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10912062291</id>
+      <title>Default Title</title>
+      <s:price currency="USD">830.00</s:price>
+      <s:sku>01-10360</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://myshop-default.myshopify.com/products/10913717203</id>
+    <published>2017-05-24T09:37:14-05:00</published>
+    <updated>2017-05-24T09:37:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://myshop-default.myshopify.com/products/diesel-damper-flight-bag"/>
+    <title>Diesel Damper Flight Bag</title>
+    <s:type>Belt</s:type>
+    <s:vendor>Clothes</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1408/4802/products/Diesel_Damper_Flight_Bag_0.JPG?v=1495644691" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Clothes<br>
+        <strong>Type: </strong>Belt<br>
+        <strong>Price: </strong>
+            400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean</p>
+<ul class="list-simple-dot">
+<li><a href="#">Lightweight soft-touch woven</a></li>
+<li><a href="#">High-rise waist</a></li>
+<li><a href="#">Zip fly with hook and button fastening</a></li>
+<li><a href="#">Slip pockets</a></li>
+<li><a href="#">Waist belt</a></li>
+<li><a href="#">Relaxed fit</a></li>
+<li><a href="#">Machine wash</a></li>
+<li><a href="#">76% Polyester, 18% Viscose, 6% Elastane</a></li>
+<li><a href="#">Our model wears a UK 8/ EU 36/ US 4 and is 174 cm/5'8.5” tall</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200-$500</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Belts</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Clothes</s:tag>
+    <s:tag>Gap</s:tag>
+    <s:tag>Guess</s:tag>
+    <s:tag>Hats</s:tag>
+    <s:tag>Jumpsuit &amp; shorts</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Nice</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Outerwear</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Polo</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Shoes</s:tag>
+    <s:tag>Shorts</s:tag>
+    <s:tag>Sleeveless Tops</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Sunglasses</s:tag>
+    <s:tag>Sweaters</s:tag>
+    <s:tag>Tights</s:tag>
+    <s:tag>Tops</s:tag>
+    <s:tag>Trousers</s:tag>
+    <s:tag>Vintage</s:tag>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913717203</id>
+      <title>S / Orange / vata</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku>01-10388</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913717203</id>
+      <title>S / Orange / mat</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku>01-10389</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913717203</id>
+      <title>S / Pink / vata</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku>01-10390</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913717203</id>
+      <title>S / Pink / mat</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku>01-10391</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913717203</id>
+      <title>S / Black / vata</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku>01-10392</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913717203</id>
+      <title>S / Black / mat</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku>01-10393</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913717203</id>
+      <title>L / Orange / vata</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku>01-10394</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913717203</id>
+      <title>L / Orange / mat</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku>01-10395</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913717203</id>
+      <title>L / Pink / vata</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku>01-10396</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913717203</id>
+      <title>L / Pink / mat</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku>01-10397</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913717203</id>
+      <title>L / Black / vata</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku>01-10398</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913717203</id>
+      <title>L / Black / mat</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku>01-10399</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://myshop-default.myshopify.com/products/10913704787</id>
+    <published>2017-05-24T09:37:14-05:00</published>
+    <updated>2017-05-24T09:37:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://myshop-default.myshopify.com/products/black-coffee"/>
+    <title>Black Coffee</title>
+    <s:type>Belt</s:type>
+    <s:vendor>Zara</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1408/4802/products/BlackCoffee_001_ProductLarge.JPG?v=1495644576" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>Zara<br>
+        <strong>Type: </strong>Belt<br>
+        <strong>Price: </strong>
+            480.00 - 490.00
+            <a href="https://myshop-default.myshopify.com/products/black-coffee">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean</p>
+<ul class="list-simple-dot">
+<li><a href="#">Lightweight soft-touch woven</a></li>
+<li><a href="#">High-rise waist</a></li>
+<li><a href="#">Zip fly with hook and button fastening</a></li>
+<li><a href="#">Slip pockets</a></li>
+<li><a href="#">Waist belt</a></li>
+<li><a href="#">Relaxed fit</a></li>
+<li><a href="#">Machine wash</a></li>
+<li><a href="#">76% Polyester, 18% Viscose, 6% Elastane</a></li>
+<li><a href="#">Our model wears a UK 8/ EU 36/ US 4 and is 174 cm/5'8.5” tall</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200-$500</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Belts</s:tag>
+    <s:tag>Grey</s:tag>
+    <s:tag>Hats</s:tag>
+    <s:tag>Jumpsuit &amp; shorts</s:tag>
+    <s:tag>Lacoste</s:tag>
+    <s:tag>Levi&apos;s</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>Men</s:tag>
+    <s:tag>Nice</s:tag>
+    <s:tag>Outerwear</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Shoes</s:tag>
+    <s:tag>Shorts</s:tag>
+    <s:tag>Sleeveless Tops</s:tag>
+    <s:tag>Summer</s:tag>
+    <s:tag>Sunglasses</s:tag>
+    <s:tag>Sweaters</s:tag>
+    <s:tag>Tights</s:tag>
+    <s:tag>Tops</s:tag>
+    <s:tag>Trousers</s:tag>
+    <s:tag>Vintage</s:tag>
+    <s:tag>Violet</s:tag>
+    <s:tag>White</s:tag>
+    <s:tag>XL</s:tag>
+    <s:tag>XS</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:tag>Zara</s:tag>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913704787</id>
+      <title>White</title>
+      <s:price currency="USD">480.00</s:price>
+      <s:sku>01-10386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/10913704787</id>
+      <title>Red</title>
+      <s:price currency="USD">490.00</s:price>
+      <s:sku>01-10387</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

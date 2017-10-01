@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://myshop-default.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://myshop-default.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://myshop-default.myshopify.com/collections/tools.atom"/>
+  <title>myshop-default</title>
+  <updated>2017-05-24T09:37:14-05:00</updated>
+  <author>
+    <name>myshop-default</name>
+  </author>
+  <entry>
+    <id>https://myshop-default.myshopify.com/products/12061712915</id>
+    <published>2017-05-24T09:37:14-05:00</published>
+    <updated>2017-05-24T09:37:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://myshop-default.myshopify.com/products/slide-compound-mitre-saw-1"/>
+    <title>Slide Compound Mitre Saw</title>
+    <s:type>Tools</s:type>
+    <s:vendor>myshop-default</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1408/4802/products/Slide_Compound_Mitre_Saw.jpg?v=1502818379" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>myshop-default<br>
+        <strong>Type: </strong>Tools<br>
+        <strong>Price: </strong>
+            230.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean</p>
+<ul class="list-simple-dot">
+<li><a href="#">Lightweight soft-touch woven</a></li>
+<li><a href="#">High-rise waist</a></li>
+<li><a href="#">Zip fly with hook and button fastening</a></li>
+<li><a href="#">Slip pockets</a></li>
+<li><a href="#">Waist belt</a></li>
+<li><a href="#">Relaxed fit</a></li>
+<li><a href="#">Machine wash</a></li>
+<li><a href="#">76% Polyester, 18% Viscose, 6% Elastane</a></li>
+<li><a href="#">Our model wears a UK 8/ EU 36/ US 4 and is 174 cm/5'8.5” tall</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200-$300</s:tag>
+    <s:tag>Electrotool</s:tag>
+    <s:tag>Mitre Saw</s:tag>
+    <s:tag>Silver</s:tag>
+    <s:tag>Sunglasses</s:tag>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/12061712915</id>
+      <title>Default Title</title>
+      <s:price currency="USD">230.00</s:price>
+      <s:sku>01-10402</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://myshop-default.myshopify.com/products/12061701459</id>
+    <published>2017-05-24T09:37:14-05:00</published>
+    <updated>2017-05-24T09:37:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://myshop-default.myshopify.com/products/slide-compound-mitre-saw"/>
+    <title>Hammerdrill</title>
+    <s:type>Tools</s:type>
+    <s:vendor>myshop-default</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1408/4802/products/Hammerdrill.jpg?v=1502818312" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>myshop-default<br>
+        <strong>Type: </strong>Tools<br>
+        <strong>Price: </strong>
+            210.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean</p>
+<ul class="list-simple-dot">
+<li><a href="#">Lightweight soft-touch woven</a></li>
+<li><a href="#">High-rise waist</a></li>
+<li><a href="#">Zip fly with hook and button fastening</a></li>
+<li><a href="#">Slip pockets</a></li>
+<li><a href="#">Waist belt</a></li>
+<li><a href="#">Relaxed fit</a></li>
+<li><a href="#">Machine wash</a></li>
+<li><a href="#">76% Polyester, 18% Viscose, 6% Elastane</a></li>
+<li><a href="#">Our model wears a UK 8/ EU 36/ US 4 and is 174 cm/5'8.5” tall</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200-$300</s:tag>
+    <s:tag>Electrotool</s:tag>
+    <s:tag>Hammerdrill</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/12061701459</id>
+      <title>Default Title</title>
+      <s:price currency="USD">210.00</s:price>
+      <s:sku>01-10401</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://myshop-default.myshopify.com/products/12061697235</id>
+    <published>2017-05-24T09:37:14-05:00</published>
+    <updated>2017-05-24T09:37:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://myshop-default.myshopify.com/products/fencing-plier"/>
+    <title>Fencing Plier</title>
+    <s:type>Tools</s:type>
+    <s:vendor>myshop-default</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1408/4802/products/FENCING_PLIER.jpg?v=1502818261" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>myshop-default<br>
+        <strong>Type: </strong>Tools<br>
+        <strong>Price: </strong>
+            190.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean</p>
+<ul class="list-simple-dot">
+<li><a href="#">Lightweight soft-touch woven</a></li>
+<li><a href="#">High-rise waist</a></li>
+<li><a href="#">Zip fly with hook and button fastening</a></li>
+<li><a href="#">Slip pockets</a></li>
+<li><a href="#">Waist belt</a></li>
+<li><a href="#">Relaxed fit</a></li>
+<li><a href="#">Machine wash</a></li>
+<li><a href="#">76% Polyester, 18% Viscose, 6% Elastane</a></li>
+<li><a href="#">Our model wears a UK 8/ EU 36/ US 4 and is 174 cm/5'8.5” tall</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100-$200</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Hand tool</s:tag>
+    <s:tag>Pliers</s:tag>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/12061697235</id>
+      <title>Default Title</title>
+      <s:price currency="USD">190.00</s:price>
+      <s:sku>01-10400</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://myshop-default.myshopify.com/products/12061685779</id>
+    <published>2017-05-24T09:37:14-05:00</published>
+    <updated>2017-05-24T09:37:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://myshop-default.myshopify.com/products/dewalt-216m-mitre-saw"/>
+    <title>Dewalt 216m Mitre Saw</title>
+    <s:type>Tools</s:type>
+    <s:vendor>myshop-default</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1408/4802/products/DWS774_Dewalt_216mm_Mitre_Saw_with_XPS.jpg?v=1502818203" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>myshop-default<br>
+        <strong>Type: </strong>Tools<br>
+        <strong>Price: </strong>
+            170.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean</p>
+<ul class="list-simple-dot">
+<li><a href="#">Lightweight soft-touch woven</a></li>
+<li><a href="#">High-rise waist</a></li>
+<li><a href="#">Zip fly with hook and button fastening</a></li>
+<li><a href="#">Slip pockets</a></li>
+<li><a href="#">Waist belt</a></li>
+<li><a href="#">Relaxed fit</a></li>
+<li><a href="#">Machine wash</a></li>
+<li><a href="#">76% Polyester, 18% Viscose, 6% Elastane</a></li>
+<li><a href="#">Our model wears a UK 8/ EU 36/ US 4 and is 174 cm/5'8.5” tall</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100-$200</s:tag>
+    <s:tag>Electrotool</s:tag>
+    <s:tag>Mitre Saw</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/12061685779</id>
+      <title>Default Title</title>
+      <s:price currency="USD">170.00</s:price>
+      <s:sku>01-10399</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://myshop-default.myshopify.com/products/12061679827</id>
+    <published>2017-05-24T09:37:14-05:00</published>
+    <updated>2017-05-24T09:37:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://myshop-default.myshopify.com/products/brushless-cordless-planer"/>
+    <title>Brushless Cordless Planer</title>
+    <s:type>Tools</s:type>
+    <s:vendor>myshop-default</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1408/4802/products/Brushless_Cordless_Planer_-_Body.jpg?v=1502818078" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>myshop-default<br>
+        <strong>Type: </strong>Tools<br>
+        <strong>Price: </strong>
+            150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean</p>
+<ul class="list-simple-dot">
+<li><a href="#">Lightweight soft-touch woven</a></li>
+<li><a href="#">High-rise waist</a></li>
+<li><a href="#">Zip fly with hook and button fastening</a></li>
+<li><a href="#">Slip pockets</a></li>
+<li><a href="#">Waist belt</a></li>
+<li><a href="#">Relaxed fit</a></li>
+<li><a href="#">Machine wash</a></li>
+<li><a href="#">76% Polyester, 18% Viscose, 6% Elastane</a></li>
+<li><a href="#">Our model wears a UK 8/ EU 36/ US 4 and is 174 cm/5'8.5” tall</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100-$200</s:tag>
+    <s:tag>Electrotool</s:tag>
+    <s:tag>Planers</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/12061679827</id>
+      <title>Default Title</title>
+      <s:price currency="USD">150.00</s:price>
+      <s:sku>01-10398</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://myshop-default.myshopify.com/products/12061675795</id>
+    <published>2017-05-24T09:37:14-05:00</published>
+    <updated>2017-05-24T09:37:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://myshop-default.myshopify.com/products/battery-combo-pack"/>
+    <title>Battery Combo Pack</title>
+    <s:type>Tools</s:type>
+    <s:vendor>myshop-default</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1408/4802/products/Battery_Combo_Pack.jpg?v=1502818022" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>myshop-default<br>
+        <strong>Type: </strong>Tools<br>
+        <strong>Price: </strong>
+            130.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean</p>
+<ul class="list-simple-dot">
+<li><a href="#">Lightweight soft-touch woven</a></li>
+<li><a href="#">High-rise waist</a></li>
+<li><a href="#">Zip fly with hook and button fastening</a></li>
+<li><a href="#">Slip pockets</a></li>
+<li><a href="#">Waist belt</a></li>
+<li><a href="#">Relaxed fit</a></li>
+<li><a href="#">Machine wash</a></li>
+<li><a href="#">76% Polyester, 18% Viscose, 6% Elastane</a></li>
+<li><a href="#">Our model wears a UK 8/ EU 36/ US 4 and is 174 cm/5'8.5” tall</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100-$200</s:tag>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Battery</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/12061675795</id>
+      <title>Default Title</title>
+      <s:price currency="USD">130.00</s:price>
+      <s:sku>01-10397</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

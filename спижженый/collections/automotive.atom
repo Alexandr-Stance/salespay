@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://myshop-default.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://myshop-default.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://myshop-default.myshopify.com/collections/automotive.atom"/>
+  <title>myshop-default</title>
+  <updated>2017-05-24T09:37:14-05:00</updated>
+  <author>
+    <name>myshop-default</name>
+  </author>
+  <entry>
+    <id>https://myshop-default.myshopify.com/products/12061846803</id>
+    <published>2017-05-24T09:37:14-05:00</published>
+    <updated>2017-05-24T09:37:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://myshop-default.myshopify.com/products/brakes-kit"/>
+    <title>Brakes Kit</title>
+    <s:type>Automotive</s:type>
+    <s:vendor>myshop-default</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1408/4802/products/V-MAXX_BIG_BRAKE_KITS1.jpg?v=1502819489" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>myshop-default<br>
+        <strong>Type: </strong>Automotive<br>
+        <strong>Price: </strong>
+            450.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean</p>
+<ul class="list-simple-dot">
+<li><a href="#">Lightweight soft-touch woven</a></li>
+<li><a href="#">High-rise waist</a></li>
+<li><a href="#">Zip fly with hook and button fastening</a></li>
+<li><a href="#">Slip pockets</a></li>
+<li><a href="#">Waist belt</a></li>
+<li><a href="#">Relaxed fit</a></li>
+<li><a href="#">Machine wash</a></li>
+<li><a href="#">76% Polyester, 18% Viscose, 6% Elastane</a></li>
+<li><a href="#">Our model wears a UK 8/ EU 36/ US 4 and is 174 cm/5'8.5” tall</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$400-$500</s:tag>
+    <s:tag>Air Intake</s:tag>
+    <s:tag>Body Parts</s:tag>
+    <s:tag>Brake</s:tag>
+    <s:tag>Brakes</s:tag>
+    <s:tag>Electrical</s:tag>
+    <s:tag>Mechanical &amp; Trim</s:tag>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/12061846803</id>
+      <title>Default Title</title>
+      <s:price currency="USD">450.00</s:price>
+      <s:sku>01-10413</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://myshop-default.myshopify.com/products/12061840979</id>
+    <published>2017-05-24T09:37:14-05:00</published>
+    <updated>2017-05-24T09:37:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://myshop-default.myshopify.com/products/chrome-air-filter"/>
+    <title>Chrome Air Filter</title>
+    <s:type>Automotive</s:type>
+    <s:vendor>myshop-default</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1408/4802/products/UNIVERSAL_CLAMP-ON_CHROME_AIR_FILTER1.jpg?v=1502819436" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>myshop-default<br>
+        <strong>Type: </strong>Automotive<br>
+        <strong>Price: </strong>
+            430.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean</p>
+<ul class="list-simple-dot">
+<li><a href="#">Lightweight soft-touch woven</a></li>
+<li><a href="#">High-rise waist</a></li>
+<li><a href="#">Zip fly with hook and button fastening</a></li>
+<li><a href="#">Slip pockets</a></li>
+<li><a href="#">Waist belt</a></li>
+<li><a href="#">Relaxed fit</a></li>
+<li><a href="#">Machine wash</a></li>
+<li><a href="#">76% Polyester, 18% Viscose, 6% Elastane</a></li>
+<li><a href="#">Our model wears a UK 8/ EU 36/ US 4 and is 174 cm/5'8.5” tall</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$400-$500</s:tag>
+    <s:tag>Air Filter</s:tag>
+    <s:tag>Air Intake</s:tag>
+    <s:tag>Body Parts</s:tag>
+    <s:tag>Brake</s:tag>
+    <s:tag>Electrical</s:tag>
+    <s:tag>Mechanical &amp; Trim</s:tag>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/12061840979</id>
+      <title>Default Title</title>
+      <s:price currency="USD">430.00</s:price>
+      <s:sku>01-10412</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://myshop-default.myshopify.com/products/12061837459</id>
+    <published>2017-05-24T09:37:14-05:00</published>
+    <updated>2017-05-24T09:37:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://myshop-default.myshopify.com/products/shock-absorbers"/>
+    <title>Shock Absorbers</title>
+    <s:type>Automotive</s:type>
+    <s:vendor>myshop-default</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1408/4802/products/SHOCK_ABSORBERS1.jpg?v=1502819381" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>myshop-default<br>
+        <strong>Type: </strong>Automotive<br>
+        <strong>Price: </strong>
+            410.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean</p>
+<ul class="list-simple-dot">
+<li><a href="#">Lightweight soft-touch woven</a></li>
+<li><a href="#">High-rise waist</a></li>
+<li><a href="#">Zip fly with hook and button fastening</a></li>
+<li><a href="#">Slip pockets</a></li>
+<li><a href="#">Waist belt</a></li>
+<li><a href="#">Relaxed fit</a></li>
+<li><a href="#">Machine wash</a></li>
+<li><a href="#">76% Polyester, 18% Viscose, 6% Elastane</a></li>
+<li><a href="#">Our model wears a UK 8/ EU 36/ US 4 and is 174 cm/5'8.5” tall</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$400-$500</s:tag>
+    <s:tag>Absorbers</s:tag>
+    <s:tag>Car Care</s:tag>
+    <s:tag>Climate</s:tag>
+    <s:tag>Cooling System</s:tag>
+    <s:tag>Driveshaft &amp; Axle</s:tag>
+    <s:tag>Engine</s:tag>
+    <s:tag>Exhaust</s:tag>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/12061837459</id>
+      <title>Default Title</title>
+      <s:price currency="USD">410.00</s:price>
+      <s:sku>01-10411</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://myshop-default.myshopify.com/products/12061833619</id>
+    <published>2017-05-24T09:37:14-05:00</published>
+    <updated>2017-05-24T09:37:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://myshop-default.myshopify.com/products/niche-wheels"/>
+    <title>Niche Wheels</title>
+    <s:type>Automotive</s:type>
+    <s:vendor>myshop-default</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1408/4802/products/NICHE_WHEELS1.jpg?v=1502819340" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>myshop-default<br>
+        <strong>Type: </strong>Automotive<br>
+        <strong>Price: </strong>
+            410.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean</p>
+<ul class="list-simple-dot">
+<li><a href="#">Lightweight soft-touch woven</a></li>
+<li><a href="#">High-rise waist</a></li>
+<li><a href="#">Zip fly with hook and button fastening</a></li>
+<li><a href="#">Slip pockets</a></li>
+<li><a href="#">Waist belt</a></li>
+<li><a href="#">Relaxed fit</a></li>
+<li><a href="#">Machine wash</a></li>
+<li><a href="#">76% Polyester, 18% Viscose, 6% Elastane</a></li>
+<li><a href="#">Our model wears a UK 8/ EU 36/ US 4 and is 174 cm/5'8.5” tall</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$400-$500</s:tag>
+    <s:tag>Car Care</s:tag>
+    <s:tag>Climate</s:tag>
+    <s:tag>Cooling System</s:tag>
+    <s:tag>Driveshaft &amp; Axle</s:tag>
+    <s:tag>Engine</s:tag>
+    <s:tag>Exhaust</s:tag>
+    <s:tag>Wheels</s:tag>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/12061833619</id>
+      <title>Default Title</title>
+      <s:price currency="USD">410.00</s:price>
+      <s:sku>01-10411</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://myshop-default.myshopify.com/products/12061825939</id>
+    <published>2017-05-24T09:37:14-05:00</published>
+    <updated>2017-05-24T09:37:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://myshop-default.myshopify.com/products/hub-bearing"/>
+    <title>Hub Bearing</title>
+    <s:type>Automotive</s:type>
+    <s:vendor>myshop-default</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1408/4802/products/HUB_BEARING1.jpg?v=1502819286" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>myshop-default<br>
+        <strong>Type: </strong>Automotive<br>
+        <strong>Price: </strong>
+            390.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean</p>
+<ul class="list-simple-dot">
+<li><a href="#">Lightweight soft-touch woven</a></li>
+<li><a href="#">High-rise waist</a></li>
+<li><a href="#">Zip fly with hook and button fastening</a></li>
+<li><a href="#">Slip pockets</a></li>
+<li><a href="#">Waist belt</a></li>
+<li><a href="#">Relaxed fit</a></li>
+<li><a href="#">Machine wash</a></li>
+<li><a href="#">76% Polyester, 18% Viscose, 6% Elastane</a></li>
+<li><a href="#">Our model wears a UK 8/ EU 36/ US 4 and is 174 cm/5'8.5” tall</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300-$400</s:tag>
+    <s:tag>Fuel Delivery</s:tag>
+    <s:tag>Hub Bearing</s:tag>
+    <s:tag>Interior</s:tag>
+    <s:tag>Popular</s:tag>
+    <s:tag>Steering</s:tag>
+    <s:tag>Suspension</s:tag>
+    <s:tag>Transmission</s:tag>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/12061825939</id>
+      <title>Default Title</title>
+      <s:price currency="USD">390.00</s:price>
+      <s:sku>01-10410</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://myshop-default.myshopify.com/products/12061820371</id>
+    <published>2017-05-24T09:37:14-05:00</published>
+    <updated>2017-05-24T09:37:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://myshop-default.myshopify.com/products/clutch-replacement-kit"/>
+    <title>Clutch Replacement Kit</title>
+    <s:type>Automotive</s:type>
+    <s:vendor>myshop-default</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1408/4802/products/CLUTCH_REPLACEMENT_KIT1.jpg?v=1502819231" /></td>
+    <td valign="bottom">
+      <p>
+        <strong>Vendor: </strong>myshop-default<br>
+        <strong>Type: </strong>Automotive<br>
+        <strong>Price: </strong>
+            370.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Silver, metallic-blue and metallic-lavender silk-blend jacquard, graphic pattern, pleated ruffle along collar, long sleeves with button-fastening cuffs, buckle-fastening silver skinny belt, large pleated rosettes at hips. Dry clean. Zip and hook fastening at back. 100% silk. Specialist clean</p>
+<ul class="list-simple-dot">
+<li><a href="#">Lightweight soft-touch woven</a></li>
+<li><a href="#">High-rise waist</a></li>
+<li><a href="#">Zip fly with hook and button fastening</a></li>
+<li><a href="#">Slip pockets</a></li>
+<li><a href="#">Waist belt</a></li>
+<li><a href="#">Relaxed fit</a></li>
+<li><a href="#">Machine wash</a></li>
+<li><a href="#">76% Polyester, 18% Viscose, 6% Elastane</a></li>
+<li><a href="#">Our model wears a UK 8/ EU 36/ US 4 and is 174 cm/5'8.5” tall</a></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300-$400</s:tag>
+    <s:tag>Clutch</s:tag>
+    <s:tag>Fuel Delivery</s:tag>
+    <s:tag>Interior</s:tag>
+    <s:tag>Popular</s:tag>
+    <s:tag>Steering</s:tag>
+    <s:tag>Suspension</s:tag>
+    <s:tag>Transmission</s:tag>
+    <s:variant>
+      <id>https://myshop-default.myshopify.com/products/12061820371</id>
+      <title>Default Title</title>
+      <s:price currency="USD">370.00</s:price>
+      <s:sku>01-10409</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
